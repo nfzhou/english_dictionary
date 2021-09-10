@@ -1003,6 +1003,7 @@ verb(aluminized,R) => R = aluminize.
 verb(aluminizes,R) => R = aluminize.
 verb(aluminizing,R) => R = aluminize.
 verb(alums,R) => R = alum.
+verb(am,R) => R = be.
 verb(amain,R) => R = amain.
 verb(amalgam,R) => R = amalgam.
 verb(amalgamate,R) => R = amalgamate.
@@ -1576,6 +1577,7 @@ verb(archives,R) => R = archive.
 verb(archiving,R) => R = archive.
 verb(arcing,R) => R = arc.
 verb(arcs,R) => R = arc.
+verb(are,R) => R = be.
 verb(aread,R) => R = aread.
 verb(arear,R) => R = arear.
 verb(areed,R) => R = areed.
@@ -20549,9 +20551,7 @@ verb(irrupt,R) => R = irrupt.
 verb(irrupted,R) => R = irrupt.
 verb(irrupting,R) => R = irrupt.
 verb(irrupts,R) => R = irrupt.
-verb(is,R) => R = is.
-verb(ised,R) => R = is.
-verb(ising,R) => R = is.
+verb(is,R) => R = be.
 verb(islamise,R) => R = islamise.
 verb(islamised,R) => R = islamise.
 verb(islamising,R) => R = islamise.
@@ -20573,7 +20573,6 @@ verb(isolating,R) => R = isolate.
 verb(isomerize,R) => R = isomerize.
 verb(isomerized,R) => R = isomerize.
 verb(isomerizing,R) => R = isomerize.
-verb(iss,R) => R = is.
 verb(issue,R) => R = issue.
 verb(issued,R) => R = issue.
 verb(issues,R) => R = issue.
@@ -42309,8 +42308,7 @@ verb(wene,R) => R = wene.
 verb(went,R) => R = wend.
 verb(wept,R) => R = weep.
 verb(werche,R) => R = werche.
-verb(were,R) => R = were.
-verb(wering,R) => R = were.
+verb(were,R) => R = be.
 verb(werk,R) => R = werk.
 verb(werke,R) => R = werke.
 verb(wern,R) => R = wern.
