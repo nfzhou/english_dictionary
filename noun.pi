@@ -1,3 +1,300 @@
+noun('Abaza',R) => R = 'Abaza'.
+noun('Adyghe',R) => R = 'Adyghe'.
+noun('Afar',R) => R = 'Afar'.
+noun('Afrikaans',R) => R = 'Afrikaans'.
+noun('Aghul',R) => R = 'Aghul'.
+noun('Aja-Gbe',R) => R = 'Aja-Gbe'.
+noun('Akan',R) => R = 'Akan'.
+noun('Aklanon',R) => R = 'Aklanon'.
+noun('Albanian',R) => R = 'Albanian'.
+noun('Altay',R) => R = 'Altay'.
+noun('Amharic',R) => R = 'Amharic'.
+noun('Anii',R) => R = 'Anii'.
+noun('Arabic',R) => R = 'Arabic'.
+noun('Armenian',R) => R = 'Armenian'.
+noun('Assamese',R) => R = 'Assamese'.
+noun('Avar',R) => R = 'Avar'.
+noun('Aymara',R) => R = 'Aymara'.
+noun('Azerbaijani',R) => R = 'Azerbaijani'.
+noun('Azeri',R) => R = 'Azeri'.
+noun('Balanta',R) => R = 'Balanta'.
+noun('Balkar',R) => R = 'Balkar'.
+noun('Bambara',R) => R = 'Bambara'.
+noun('Bariba',R) => R = 'Bariba'.
+noun('Bashkir',R) => R = 'Bashkir'.
+noun('Basque',R) => R = 'Basque'.
+noun('Bassari',R) => R = 'Bassari'.
+noun('Bedik',R) => R = 'Bedik'.
+noun('Belarusian',R) => R = 'Belarusian'.
+noun('Bengali',R) => R = 'Bengali'.
+noun('Benin',R) => R = 'Benin'.
+noun('Berber',R) => R = 'Berber'.
+noun('Biali',R) => R = 'Biali'.
+noun('Bikol',R) => R = 'Bikol'.
+noun('Bislama',R) => R = 'Bislama'.
+noun('Boko',R) => R = 'Boko'.
+noun('Bomu',R) => R = 'Bomu'.
+noun('Bosnian',R) => R = 'Bosnian'.
+noun('Bozo',R) => R = 'Bozo'.
+noun('Buduma',R) => R = 'Buduma'.
+noun('Bulgarian',R) => R = 'Bulgarian'.
+noun('Burmese',R) => R = 'Burmese'.
+noun('Buryat',R) => R = 'Buryat'.
+noun('Cantonese',R) => R = 'Cantonese'.
+noun('Catalan',R) => R = 'Catalan'.
+noun('Cebuano',R) => R = 'Cebuano'.
+noun('Chavacano',R) => R = 'Chavacano'.
+noun('Chechen',R) => R = 'Chechen'.
+noun('Cherkess',R) => R = 'Cherkess'.
+noun('Cherokee',R) => R = 'Cherokee'.
+noun('Chichewa',R) => R = 'Chichewa'.
+noun('Chinese',R) => R = 'Chinese'.
+noun('Chipewyan',R) => R = 'Chipewyan'.
+noun('Chirbawe',R) => R = 'Chirbawe'.
+noun('Chukchi',R) => R = 'Chukchi'.
+noun('Chuvash',R) => R = 'Chuvash'.
+noun('Cree',R) => R = 'Cree'.
+noun('Croatian',R) => R = 'Croatian'.
+noun('Czech',R) => R = 'Czech'.
+noun('Dagaare',R) => R = 'Dagaare'.
+noun('Dagbani',R) => R = 'Dagbani'.
+noun('Danish',R) => R = 'Danish'.
+noun('Dargwa',R) => R = 'Dargwa'.
+noun('Dari',R) => R = 'Dari'.
+noun('Dendi',R) => R = 'Dendi'.
+noun('Dhivehi',R) => R = 'Dhivehi'.
+noun('Dioula',R) => R = 'Dioula'.
+noun('Dogon',R) => R = 'Dogon'.
+noun('Dolgan',R) => R = 'Dolgan'.
+noun('Dutch',R) => R = 'Dutch'.
+noun('Dzongkha',R) => R = 'Dzongkha'.
+noun('English',R) => R = 'English'.
+noun('Erzya',R) => R = 'Erzya'.
+noun('Estonian',R) => R = 'Estonian'.
+noun('Even',R) => R = 'Even'.
+noun('Evenki',R) => R = 'Evenki'.
+noun('Ewe-Gbe',R) => R = 'Ewe-Gbe'.
+noun('Faroese',R) => R = 'Faroese'.
+noun('Fijian',R) => R = 'Fijian'.
+noun('Filipino',R) => R = 'Filipino'.
+noun('Finnish',R) => R = 'Finnish'.
+noun('Fon-Gbe',R) => R = 'Fon-Gbe'.
+noun('Foodo',R) => R = 'Foodo'.
+noun('Formosan',R) => R = 'Formosan'.
+noun('French',R) => R = 'French'.
+noun('Frisian',R) => R = 'Frisian'.
+noun('Friulian',R) => R = 'Friulian'.
+noun('Fula',R) => R = 'Fula'.
+noun('Ga',R) => R = 'Ga'.
+noun('Gagauz',R) => R = 'Gagauz'.
+noun('Galician',R) => R = 'Galician'.
+noun('Gbe',R) => R = 'Gbe'.
+noun('Gen-Gbe',R) => R = 'Gen-Gbe'.
+noun('Georgian',R) => R = 'Georgian'.
+noun('German',R) => R = 'German'.
+noun('Gonja',R) => R = 'Gonja'.
+noun('Greek',R) => R = 'Greek'.
+noun('Guaraní',R) => R = 'Guaraní'.
+noun('Gujarati',R) => R = 'Gujarati'.
+noun('Gwich\'in',R) => R = 'Gwich\'in'.
+noun('Gàidhlig',R) => R = 'Gàidhlig'.
+noun('Haitian Creole',R) => R = 'Haitian Creole'.
+noun('Hakka',R) => R = 'Hakka'.
+noun('Hassaniya',R) => R = 'Hassaniya'.
+noun('Hausa',R) => R = 'Hausa'.
+noun('Hawaiian',R) => R = 'Hawaiian'.
+noun('Hebrew',R) => R = 'Hebrew'.
+noun('Hiligaynon',R) => R = 'Hiligaynon'.
+noun('Hindi',R) => R = 'Hindi'.
+noun('Hiri Motu',R) => R = 'Hiri Motu'.
+noun('Hokkien',R) => R = 'Hokkien'.
+noun('Hungarian',R) => R = 'Hungarian'.
+noun('Ibanag',R) => R = 'Ibanag'.
+noun('Icelandic',R) => R = 'Icelandic'.
+noun('Igbo',R) => R = 'Igbo'.
+noun('Ilocano',R) => R = 'Ilocano'.
+noun('Indonesian',R) => R = 'Indonesian'.
+noun('Ingush',R) => R = 'Ingush'.
+noun('Inuinnaqtun',R) => R = 'Inuinnaqtun'.
+noun('Inuktitut',R) => R = 'Inuktitut'.
+noun('Inuvialuktun',R) => R = 'Inuvialuktun'.
+noun('Irish',R) => R = 'Irish'.
+noun('Italian',R) => R = 'Italian'.
+noun('Ivatan',R) => R = 'Ivatan'.
+noun('Japanese',R) => R = 'Japanese'.
+noun('Javanese',R) => R = 'Javanese'.
+noun('Jola',R) => R = 'Jola'.
+noun('Kabardian',R) => R = 'Kabardian'.
+noun('Kabye',R) => R = 'Kabye'.
+noun('Kalaallisut',R) => R = 'Kalaallisut'.
+noun('Kalanga',R) => R = 'Kalanga'.
+noun('Kalmyk',R) => R = 'Kalmyk'.
+noun('Kannada',R) => R = 'Kannada'.
+noun('Kanuri',R) => R = 'Kanuri'.
+noun('Kapampangan',R) => R = 'Kapampangan'.
+noun('Karachay',R) => R = 'Karachay'.
+noun('Karelian',R) => R = 'Karelian'.
+noun('Kasem',R) => R = 'Kasem'.
+noun('Kashmiri',R) => R = 'Kashmiri'.
+noun('Kazakh',R) => R = 'Kazakh'.
+noun('Khakas',R) => R = 'Khakas'.
+noun('Khanty',R) => R = 'Khanty'.
+noun('Khmer',R) => R = 'Khmer'.
+noun('Khoisan',R) => R = 'Khoisan'.
+noun('Kinaray-a',R) => R = 'Kinaray-a'.
+noun('Kinyarwanda',R) => R = 'Kinyarwanda'.
+noun('Kirundi',R) => R = 'Kirundi'.
+noun('Komi',R) => R = 'Komi'.
+noun('Komi-Permyak',R) => R = 'Komi-Permyak'.
+noun('Korean',R) => R = 'Korean'.
+noun('Kpelle',R) => R = 'Kpelle'.
+noun('Kumyk',R) => R = 'Kumyk'.
+noun('Kurdish',R) => R = 'Kurdish'.
+noun('Kyrgyz',R) => R = 'Kyrgyz'.
+noun('Lak',R) => R = 'Lak'.
+noun('Lao',R) => R = 'Lao'.
+noun('Latvian',R) => R = 'Latvian'.
+noun('Lezgian',R) => R = 'Lezgian'.
+noun('Lithuanian',R) => R = 'Lithuanian'.
+noun('Lukpa',R) => R = 'Lukpa'.
+noun('Luxembourgish',R) => R = 'Luxembourgish'.
+noun('Macedonian',R) => R = 'Macedonian'.
+noun('Maguindanao',R) => R = 'Maguindanao'.
+noun('Malagasy',R) => R = 'Malagasy'.
+noun('Malay',R) => R = 'Malay'.
+noun('Malayalam',R) => R = 'Malayalam'.
+noun('Malinke',R) => R = 'Malinke'.
+noun('Maltese',R) => R = 'Maltese'.
+noun('Mamara',R) => R = 'Mamara'.
+noun('Mandarin',R) => R = 'Mandarin'.
+noun('Manding',R) => R = 'Manding'.
+noun('Mandinka',R) => R = 'Mandinka'.
+noun('Mandjak',R) => R = 'Mandjak'.
+noun('Mankanya',R) => R = 'Mankanya'.
+noun('Mansi',R) => R = 'Mansi'.
+noun('Manx Gaelic',R) => R = 'Manx Gaelic'.
+noun('Maranao',R) => R = 'Maranao'.
+noun('Marathi',R) => R = 'Marathi'.
+noun('Mari',R) => R = 'Mari'.
+noun('Marshallese',R) => R = 'Marshallese'.
+noun('Mayan',R) => R = 'Mayan'.
+noun('Mbelime',R) => R = 'Mbelime'.
+noun('Moksha',R) => R = 'Moksha'.
+noun('Mongolian',R) => R = 'Mongolian'.
+noun('Montenegrin',R) => R = 'Montenegrin'.
+noun('Mossi',R) => R = 'Mossi'.
+noun('Māori',R) => R = 'Māori'.
+noun('Nambya',R) => R = 'Nambya'.
+noun('Nateni',R) => R = 'Nateni'.
+noun('Ndau',R) => R = 'Ndau'.
+noun('Ndebele',R) => R = 'Ndebele'.
+noun('Nenets',R) => R = 'Nenets'.
+noun('Nepali',R) => R = 'Nepali'.
+noun('Nogai',R) => R = 'Nogai'.
+noun('Noon',R) => R = 'Noon'.
+noun('Norwegian',R) => R = 'Norwegian'.
+noun('Nzema',R) => R = 'Nzema'.
+noun('Náhuatl',R) => R = 'Náhuatl'.
+noun('Occitan',R) => R = 'Occitan'.
+noun('Odia',R) => R = 'Odia'.
+noun('Oniyan',R) => R = 'Oniyan'.
+noun('Oromo',R) => R = 'Oromo'.
+noun('Ossetian',R) => R = 'Ossetian'.
+noun('Ossetic',R) => R = 'Ossetic'.
+noun('Palauan',R) => R = 'Palauan'.
+noun('Pangasinan',R) => R = 'Pangasinan'.
+noun('Papiamento',R) => R = 'Papiamento'.
+noun('Pashto',R) => R = 'Pashto'.
+noun('Persian',R) => R = 'Persian'.
+noun('Polish',R) => R = 'Polish'.
+noun('Portals',R) => R = 'Portals'.
+noun('Portuguese',R) => R = 'Portuguese'.
+noun('Punjabi',R) => R = 'Punjabi'.
+noun('Quechua',R) => R = 'Quechua'.
+noun('Romanian',R) => R = 'Romanian'.
+noun('Romansh',R) => R = 'Romansh'.
+noun('Russian',R) => R = 'Russian'.
+noun('Rusyn',R) => R = 'Rusyn'.
+noun('Rutul',R) => R = 'Rutul'.
+noun('Safen',R) => R = 'Safen'.
+noun('Sakha',R) => R = 'Sakha'.
+noun('Sambal',R) => R = 'Sambal'.
+noun('Sami',R) => R = 'Sami'.
+noun('Sanskrit',R) => R = 'Sanskrit'.
+noun('Sarikoli',R) => R = 'Sarikoli'.
+noun('Selkup',R) => R = 'Selkup'.
+noun('Sena',R) => R = 'Sena'.
+noun('Serbian',R) => R = 'Serbian'.
+noun('Serer',R) => R = 'Serer'.
+noun('Shona',R) => R = 'Shona'.
+noun('Sindhi',R) => R = 'Sindhi'.
+noun('Sinhala',R) => R = 'Sinhala'.
+noun('Slovak',R) => R = 'Slovak'.
+noun('Slovene',R) => R = 'Slovene'.
+noun('Somali',R) => R = 'Somali'.
+noun('Songhay-Zarma',R) => R = 'Songhay-Zarma'.
+noun('Soninke',R) => R = 'Soninke'.
+noun('Sotho',R) => R = 'Sotho'.
+noun('Spanish',R) => R = 'Spanish'.
+noun('Surigaonon',R) => R = 'Surigaonon'.
+noun('Susu',R) => R = 'Susu'.
+noun('Swahili',R) => R = 'Swahili'.
+noun('Swati',R) => R = 'Swati'.
+noun('Swedish',R) => R = 'Swedish'.
+noun('Syenara',R) => R = 'Syenara'.
+noun('Tabasaran',R) => R = 'Tabasaran'.
+noun('Tagalog',R) => R = 'Tagalog'.
+noun('Tahitian',R) => R = 'Tahitian'.
+noun('Taiwanese',R) => R = 'Taiwanese'.
+noun('Tajik',R) => R = 'Tajik'.
+noun('Tamasheq',R) => R = 'Tamasheq'.
+noun('Tamil',R) => R = 'Tamil'.
+noun('Tammari',R) => R = 'Tammari'.
+noun('Tasawaq',R) => R = 'Tasawaq'.
+noun('Tat',R) => R = 'Tat'.
+noun('Tatar',R) => R = 'Tatar'.
+noun('Tausug',R) => R = 'Tausug'.
+noun('Tebu',R) => R = 'Tebu'.
+noun('Telugu',R) => R = 'Telugu'.
+noun('Tetum',R) => R = 'Tetum'.
+noun('Thai',R) => R = 'Thai'.
+noun('Tibetan',R) => R = 'Tibetan'.
+noun('Tigrinya',R) => R = 'Tigrinya'.
+noun('Tok Pisin',R) => R = 'Tok Pisin'.
+noun('Toma',R) => R = 'Toma'.
+noun('Tonga',R) => R = 'Tonga'.
+noun('Tsakhur',R) => R = 'Tsakhur'.
+noun('Tsonga',R) => R = 'Tsonga'.
+noun('Tswana',R) => R = 'Tswana'.
+noun('Turkish',R) => R = 'Turkish'.
+noun('Turkmen',R) => R = 'Turkmen'.
+noun('Tuvan',R) => R = 'Tuvan'.
+noun('Tłįchǫ',R) => R = 'Tłįchǫ'.
+noun('Udmurt',R) => R = 'Udmurt'.
+noun('Ukrainian',R) => R = 'Ukrainian'.
+noun('Urdu',R) => R = 'Urdu'.
+noun('Uyghur',R) => R = 'Uyghur'.
+noun('Uzbek',R) => R = 'Uzbek'.
+noun('Venda',R) => R = 'Venda'.
+noun('Veps',R) => R = 'Veps'.
+noun('Vietnamese',R) => R = 'Vietnamese'.
+noun('Waama',R) => R = 'Waama'.
+noun('Waci-Gbe',R) => R = 'Waci-Gbe'.
+noun('Wamey',R) => R = 'Wamey'.
+noun('Waray',R) => R = 'Waray'.
+noun('Welsh',R) => R = 'Welsh'.
+noun('Wolof',R) => R = 'Wolof'.
+noun('Xhosa',R) => R = 'Xhosa'.
+noun('Xwela-Gbe',R) => R = 'Xwela-Gbe'.
+noun('Yakan',R) => R = 'Yakan'.
+noun('Yiddish',R) => R = 'Yiddish'.
+noun('Yobe',R) => R = 'Yobe'.
+noun('Yom',R) => R = 'Yom'.
+noun('Yoruba',R) => R = 'Yoruba'.
+noun('Yukaghir',R) => R = 'Yukaghir'.
+noun('Zhuang',R) => R = 'Zhuang'.
+noun('Zimbabwean',R) => R = 'Zimbabwean'.
+noun('Zulu',R) => R = 'Zulu'.
 noun('a-bomb',R) => R = 'a-bomb'.
 noun('a-horizon',R) => R = 'a-horizon'.
 noun('a-line',R) => R = 'a-line'.
@@ -139,8 +436,10 @@ noun(abhorrence,R) => R = abhorrence.
 noun(abhorrences,R) => R = abhorrence.
 noun(abhorrer,R) => R = abhorrer.
 noun(abhorrers,R) => R = abhorrer.
+noun(abhorring,R) => R = abhorring.
 noun(abidance,R) => R = abidance.
 noun(abidances,R) => R = abidance.
+noun(abiding,R) => R = abiding.
 noun(abidjan,R) => R = abidjan.
 noun(abience,R) => R = abience.
 noun(abies,R) => R = abies.
@@ -2084,6 +2383,7 @@ noun(alienists,R) => R = alienist.
 noun(alienor,R) => R = alienor.
 noun(alienors,R) => R = alienor.
 noun(aliens,R) => R = alien.
+noun(alighting,R) => R = alighting.
 noun(aligning,R) => R = aligning.
 noun(alignment,R) => R = alignment.
 noun(alignments,R) => R = alignment.
@@ -4446,6 +4746,7 @@ noun(ariocarpus,R) => R = ariocarpus.
 noun(arioso,R) => R = arioso.
 noun(ariosos,R) => R = arioso.
 noun(arisaema,R) => R = arisaema.
+noun(arising,R) => R = arising.
 noun(arista,R) => R = arista.
 noun(aristarchus,R) => R = aristarchus.
 noun(aristas,R) => R = arista.
@@ -5691,6 +5992,7 @@ noun(averaging,R) => R = averaging.
 noun(averment,R) => R = averment.
 noun(averments,R) => R = averment.
 noun(averrhoa,R) => R = averrhoa.
+noun(averring,R) => R = averring.
 noun(averroes,R) => R = averroes.
 noun(aversion,R) => R = aversion.
 noun(aversions,R) => R = aversion.
@@ -5749,6 +6051,7 @@ noun(avulsions,R) => R = avulsion.
 noun(awaiting,R) => R = awaiting.
 noun(awakening,R) => R = awakening.
 noun(awakenings,R) => R = awakening.
+noun(awaking,R) => R = awaking.
 noun(award,R) => R = award.
 noun(awarding,R) => R = awarding.
 noun(awards,R) => R = award.
@@ -6005,6 +6308,7 @@ noun(backside,R) => R = backside.
 noun(backsides,R) => R = backside.
 noun(backslapper,R) => R = backslapper.
 noun(backslappers,R) => R = backslapper.
+noun(backslapping,R) => R = backslapping.
 noun(backslider,R) => R = backslider.
 noun(backsliders,R) => R = backslider.
 noun(backsliding,R) => R = backsliding.
@@ -6022,6 +6326,7 @@ noun(backstitch,R) => R = backstitch.
 noun(backstitches,R) => R = backstitch.
 noun(backstitching,R) => R = backstitching.
 noun(backstop,R) => R = backstop.
+noun(backstopping,R) => R = backstopping.
 noun(backstops,R) => R = backstop.
 noun(backstroke,R) => R = backstroke.
 noun(backstrokes,R) => R = backstroke.
@@ -6511,6 +6816,7 @@ noun(baptistries,R) => R = baptistry.
 noun(baptistry,R) => R = baptistry.
 noun(baptists,R) => R = baptist.
 noun(baptizing,R) => R = baptizing.
+noun(bar,R) => R = bar.
 noun(bara,R) => R = baron.
 noun(baraka,R) => R = baraka.
 noun(barany,R) => R = barany.
@@ -7162,6 +7468,7 @@ noun(beckley,R) => R = beckley.
 noun(beckoning,R) => R = beckoning.
 noun(becks,R) => R = beck.
 noun(beclouding,R) => R = beclouding.
+noun(becoming,R) => R = becoming.
 noun(becomingness,R) => R = becomingness.
 noun(becquerel,R) => R = becquerel.
 noun(bed,R) => R = bed.
@@ -7280,6 +7587,7 @@ noun(beetling,R) => R = beetling.
 noun(beetroot,R) => R = beetroot.
 noun(beetroots,R) => R = beetroot.
 noun(beets,R) => R = beet.
+noun(befalling,R) => R = befalling.
 noun(befooling,R) => R = befooling.
 noun(befouling,R) => R = befouling.
 noun(befoulment,R) => R = befoulment.
@@ -7367,6 +7675,7 @@ noun(belaboring,R) => R = belaboring.
 noun(belabouring,R) => R = belabouring.
 noun(belamcanda,R) => R = belamcanda.
 noun(belay,R) => R = belay.
+noun(belaying,R) => R = belaying.
 noun(belays,R) => R = belay.
 noun(belch,R) => R = belch.
 noun(belches,R) => R = belch.
@@ -7443,6 +7752,7 @@ noun(bellwethers,R) => R = bellwether.
 noun(bellwort,R) => R = bellwort.
 noun(bellworts,R) => R = bellwort.
 noun(belly,R) => R = belly.
+noun('belly-flopping',R) => R = 'belly-flopping'.
 noun('belly-landing',R) => R = 'belly-landing'.
 noun(bellyache,R) => R = bellyache.
 noun(bellyacher,R) => R = bellyacher.
@@ -7587,6 +7897,7 @@ noun(benzylpenicillin,R) => R = benzylpenicillin.
 noun(benzyls,R) => R = benzyl.
 noun(beograd,R) => R = beograd.
 noun(beowulf,R) => R = beowulf.
+noun(bequeathing,R) => R = bequeathing.
 noun(bequest,R) => R = bequest.
 noun(bequests,R) => R = bequest.
 noun(berating,R) => R = berating.
@@ -7600,6 +7911,7 @@ noun(bercy,R) => R = bercy.
 noun(bereaved,R) => R = bereaved.
 noun(bereavement,R) => R = bereavement.
 noun(bereavements,R) => R = bereavement.
+noun(bereaving,R) => R = bereaving.
 noun(beret,R) => R = beret.
 noun(berets,R) => R = beret.
 noun(berg,R) => R = berg.
@@ -7667,6 +7979,7 @@ noun(beryllium,R) => R = beryllium.
 noun(beryls,R) => R = beryl.
 noun(berzelius,R) => R = berzelius.
 noun(bes,R) => R = be.
+noun(beseeching,R) => R = beseeching.
 noun(beseeming,R) => R = beseeming.
 noun(beshrewing,R) => R = beshrewing.
 noun(besieger,R) => R = besieger.
@@ -7678,6 +7991,7 @@ noun(besom,R) => R = besom.
 noun(besoms,R) => R = besom.
 noun(bespangling,R) => R = bespangling.
 noun(bespattering,R) => R = bespattering.
+noun(bespeaking,R) => R = bespeaking.
 noun(besprinkling,R) => R = besprinkling.
 noun(bessel,R) => R = bessel.
 noun(bessemer,R) => R = bessemer.
@@ -7690,11 +8004,14 @@ noun(bestializing,R) => R = bestializing.
 noun(bestiaries,R) => R = bestiary.
 noun(bestiary,R) => R = bestiary.
 noun(besting,R) => R = besting.
+noun(bestirring,R) => R = bestirring.
 noun(bestowal,R) => R = bestowal.
 noun(bestowals,R) => R = bestowal.
 noun(bestower,R) => R = bestower.
 noun(bestowing,R) => R = bestowing.
 noun(bestowment,R) => R = bestowment.
+noun(bestrewing,R) => R = bestrewing.
+noun(bestriding,R) => R = bestriding.
 noun(bests,R) => R = best.
 noun(bestseller,R) => R = bestseller.
 noun(bestsellers,R) => R = bestseller.
@@ -7754,6 +8071,7 @@ noun(bevies,R) => R = bevy.
 noun(bevin,R) => R = bevin.
 noun(bevy,R) => R = bevy.
 noun(bewailing,R) => R = bewailing.
+noun(bewaring,R) => R = bewaring.
 noun(bewildering,R) => R = bewildering.
 noun(bewilderment,R) => R = bewilderment.
 noun(bewilderments,R) => R = bewilderment.
@@ -7849,6 +8167,7 @@ noun(biddy,R) => R = biddy.
 noun(bidens,R) => R = bidens.
 noun(bidet,R) => R = bidet.
 noun(bidets,R) => R = bidet.
+noun(biding,R) => R = biding.
 noun(bids,R) => R = bid.
 noun(biennial,R) => R = biennial.
 noun(biennials,R) => R = biennial.
@@ -7999,6 +8318,7 @@ noun(bine,R) => R = bine.
 noun(bines,R) => R = bine.
 noun(binet,R) => R = binet.
 noun(binful,R) => R = binful.
+noun(bing,R) => R = bing.
 noun(binge,R) => R = binge.
 noun(bingeing,R) => R = bingeing.
 noun(binger,R) => R = binger.
@@ -8199,6 +8519,7 @@ noun(bites,R) => R = bitis.
 noun(bitewing,R) => R = bitewing.
 noun(bitewings,R) => R = bitewing.
 noun(bithynia,R) => R = bithynia.
+noun(biting,R) => R = biting.
 noun(bitis,R) => R = bitis.
 noun(bitmap,R) => R = bitmap.
 noun(bits,R) => R = bit.
@@ -8743,6 +9064,7 @@ noun(blur,R) => R = blur.
 noun(blurb,R) => R = blurb.
 noun(blurbs,R) => R = blurb.
 noun(blurriness,R) => R = blurriness.
+noun(blurring,R) => R = blurring.
 noun(blurs,R) => R = blur.
 noun(blurting,R) => R = blurting.
 noun(blush,R) => R = blush.
@@ -9209,6 +9531,7 @@ noun(bootlickers,R) => R = bootlicker.
 noun(bootlicking,R) => R = bootlicking.
 noun(bootmaker,R) => R = bootmaker.
 noun(bootstrap,R) => R = bootstrap.
+noun(bootstrapping,R) => R = bootstrapping.
 noun(bootstraps,R) => R = bootstrap.
 noun(booty,R) => R = booty.
 noun(booze,R) => R = booze.
@@ -9219,6 +9542,7 @@ noun(boozes,R) => R = booze.
 noun(boozing,R) => R = boozing.
 noun(bop,R) => R = bop.
 noun(bopeep,R) => R = bopeep.
+noun(bopping,R) => R = bopping.
 noun(bops,R) => R = bop.
 noun(bora,R) => R = boron.
 noun(borage,R) => R = borage.
@@ -9404,6 +9728,7 @@ noun(boundary,R) => R = boundary.
 noun(boundedness,R) => R = boundedness.
 noun(bounder,R) => R = bounder.
 noun(bounders,R) => R = bounder.
+noun(bounding,R) => R = bounding.
 noun(boundlessness,R) => R = boundlessness.
 noun(boundlessnesses,R) => R = boundlessness.
 noun(bounds,R) => R = bound.
@@ -10214,6 +10539,7 @@ noun(brouhahas,R) => R = brouhaha.
 noun(broussonetia,R) => R = broussonetia.
 noun(brow,R) => R = brow.
 noun(browallia,R) => R = browallia.
+noun(browbeating,R) => R = browbeating.
 noun(brown,R) => R = brown.
 noun('brown-nosing',R) => R = 'brown-nosing'.
 noun(browne,R) => R = browne.
@@ -10790,6 +11116,7 @@ noun(bursitises,R) => R = bursitis.
 noun(burst,R) => R = burst.
 noun(burster,R) => R = burster.
 noun(bursters,R) => R = burster.
+noun(bursting,R) => R = bursting.
 noun(bursts,R) => R = burst.
 noun(burt,R) => R = burt.
 noun(burta,R) => R = burton.
@@ -10851,6 +11178,7 @@ noun(buster,R) => R = buster.
 noun(busters,R) => R = buster.
 noun(bustier,R) => R = bustier.
 noun(bustiers,R) => R = bustier.
+noun(busting,R) => R = busting.
 noun(bustle,R) => R = bustle.
 noun(bustles,R) => R = bustle.
 noun(bustling,R) => R = bustling.
@@ -11913,6 +12241,7 @@ noun(cappadocia,R) => R = cappadocia.
 noun(capparidaceae,R) => R = capparidaceae.
 noun(capparis,R) => R = capparis.
 noun(cappelletti,R) => R = cappelletti.
+noun(capping,R) => R = capping.
 noun(cappuccino,R) => R = cappuccino.
 noun(capra,R) => R = capra.
 noun(caprella,R) => R = caprella.
@@ -12764,6 +13093,7 @@ noun(catlings,R) => R = catling.
 noun(catmint,R) => R = catmint.
 noun(catmints,R) => R = catmint.
 noun(catnap,R) => R = catnap.
+noun(catnapping,R) => R = catnapping.
 noun(catnaps,R) => R = catnap.
 noun(catnip,R) => R = catnip.
 noun(catnips,R) => R = catnip.
@@ -13546,6 +13876,7 @@ noun(chaplet,R) => R = chaplet.
 noun(chaplets,R) => R = chaplet.
 noun(chaplin,R) => R = chaplin.
 noun(chapman,R) => R = chapman.
+noun(chapping,R) => R = chapping.
 noun(chapter,R) => R = chapter.
 noun(chapterhouse,R) => R = chapterhouse.
 noun(chapters,R) => R = chapter.
@@ -13633,6 +13964,7 @@ noun(charnels,R) => R = charnel.
 noun(charolais,R) => R = charolais.
 noun(charon,R) => R = charon.
 noun(charr,R) => R = charr.
+noun(charring,R) => R = charring.
 noun(charrs,R) => R = charr.
 noun(chars,R) => R = char.
 noun(chart,R) => R = chart.
@@ -14298,6 +14630,7 @@ noun(chondrus,R) => R = chondrus.
 noun('choo-choo',R) => R = 'choo-choo'.
 noun(chooser,R) => R = chooser.
 noun(choosers,R) => R = chooser.
+noun(choosing,R) => R = choosing.
 noun(chop,R) => R = chop.
 noun(chophouse,R) => R = chophouse.
 noun(chophouses,R) => R = chophouse.
@@ -14309,6 +14642,7 @@ noun(chopper,R) => R = chopper.
 noun(choppers,R) => R = chopper.
 noun(choppiness,R) => R = choppiness.
 noun(choppinesses,R) => R = choppiness.
+noun(chopping,R) => R = chopping.
 noun(chopstick,R) => R = chopstick.
 noun(chopsticks,R) => R = chopstick.
 noun(choragi,R) => R = choragus.
@@ -15000,6 +15334,7 @@ noun(cleavage,R) => R = cleavage.
 noun(cleavages,R) => R = cleavage.
 noun(cleaver,R) => R = cleaver.
 noun(cleavers,R) => R = cleavers.
+noun(cleaving,R) => R = cleaving.
 noun(clef,R) => R = clef.
 noun(clefs,R) => R = clef.
 noun(cleft,R) => R = cleft.
@@ -15107,6 +15442,7 @@ noun(clines,R) => R = cline.
 noun(cling,R) => R = cling.
 noun(clingfish,R) => R = clingfish.
 noun(clingfishes,R) => R = clingfish.
+noun(clinging,R) => R = clinging.
 noun(clings,R) => R = cling.
 noun(clingstone,R) => R = clingstone.
 noun(clingstones,R) => R = clingstone.
@@ -15341,6 +15677,7 @@ noun('co-option',R) => R = 'co-option'.
 noun('co-ordinate',R) => R = 'co-ordinate'.
 noun('co-respondent',R) => R = 'co-respondent'.
 noun('co-star',R) => R = 'co-star'.
+noun('co-starring',R) => R = 'co-starring'.
 noun('co-worker',R) => R = 'co-worker'.
 noun(coach,R) => R = coach.
 noun('coach-and-four',R) => R = 'coach-and-four'.
@@ -16519,6 +16856,7 @@ noun(concurrence,R) => R = concurrence.
 noun(concurrences,R) => R = concurrence.
 noun(concurrencies,R) => R = concurrency.
 noun(concurrency,R) => R = concurrency.
+noun(concurring,R) => R = concurring.
 noun(concussing,R) => R = concussing.
 noun(concussion,R) => R = concussion.
 noun(concussions,R) => R = concussion.
@@ -16619,6 +16957,7 @@ noun(conferment,R) => R = conferment.
 noun(conferral,R) => R = conferral.
 noun(conferrer,R) => R = conferrer.
 noun(conferrers,R) => R = conferrer.
+noun(conferring,R) => R = conferring.
 noun(conferva,R) => R = conferva.
 noun(confervas,R) => R = conferva.
 noun(confessing,R) => R = confessing.
@@ -17430,6 +17769,7 @@ noun(coppersmith,R) => R = coppersmith.
 noun(copperware,R) => R = copperware.
 noun(coppice,R) => R = coppice.
 noun(coppices,R) => R = coppice.
+noun(copping,R) => R = copping.
 noun(coppola,R) => R = coppola.
 noun(copra,R) => R = copra.
 noun(copras,R) => R = copra.
@@ -18379,6 +18719,7 @@ noun(crapper,R) => R = crapper.
 noun(crappers,R) => R = crapper.
 noun(crappie,R) => R = crappie.
 noun(crappies,R) => R = crappie.
+noun(crapping,R) => R = crapping.
 noun(craps,R) => R = craps.
 noun(crapshooter,R) => R = crapshooter.
 noun(crapshooters,R) => R = crapshooter.
@@ -18741,6 +19082,7 @@ noun(crop,R) => R = crop.
 noun('crop-dusting',R) => R = 'crop-dusting'.
 noun(cropper,R) => R = cropper.
 noun(croppers,R) => R = cropper.
+noun(cropping,R) => R = cropping.
 noun(crops,R) => R = crop.
 noun(croquet,R) => R = croquet.
 noun(croqueting,R) => R = croqueting.
@@ -20208,6 +20550,7 @@ noun(debarkation,R) => R = debarkation.
 noun(debarkations,R) => R = debarkation.
 noun(debarking,R) => R = debarking.
 noun(debarment,R) => R = debarment.
+noun(debarring,R) => R = debarring.
 noun(debasement,R) => R = debasement.
 noun(debasements,R) => R = debasement.
 noun(debaser,R) => R = debaser.
@@ -20588,6 +20931,7 @@ noun(deferment,R) => R = deferment.
 noun(deferments,R) => R = deferment.
 noun(deferral,R) => R = deferral.
 noun(deferrals,R) => R = deferral.
+noun(deferring,R) => R = deferring.
 noun(defervescence,R) => R = defervescence.
 noun(defervescing,R) => R = defervescing.
 noun(defiance,R) => R = defiance.
@@ -20971,6 +21315,7 @@ noun(demurral,R) => R = demurral.
 noun(demurrals,R) => R = demurral.
 noun(demurrer,R) => R = demurrer.
 noun(demurrers,R) => R = demurrer.
+noun(demurring,R) => R = demurring.
 noun(demurs,R) => R = demur.
 noun(demyelination,R) => R = demyelination.
 noun(demythologisation,R) => R = demythologisation.
@@ -21468,6 +21813,7 @@ noun(deterrence,R) => R = deterrence.
 noun(deterrences,R) => R = deterrence.
 noun(deterrent,R) => R = deterrent.
 noun(deterrents,R) => R = deterrent.
+noun(deterring,R) => R = deterring.
 noun(detestation,R) => R = detestation.
 noun(detestations,R) => R = detestation.
 noun(detesting,R) => R = detesting.
@@ -22192,6 +22538,7 @@ noun(dipole,R) => R = dipole.
 noun(dipoles,R) => R = dipole.
 noun(dipper,R) => R = dipper.
 noun(dippers,R) => R = dipper.
+noun(dipping,R) => R = dipping.
 noun(dips,R) => R = dip.
 noun(dipsacaceae,R) => R = dipsacaceae.
 noun(dipsacus,R) => R = dipsacus.
@@ -22309,6 +22656,7 @@ noun(disbandment,R) => R = disbandment.
 noun(disbandments,R) => R = disbandment.
 noun(disbarment,R) => R = disbarment.
 noun(disbarments,R) => R = disbarment.
+noun(disbarring,R) => R = disbarring.
 noun(disbelief,R) => R = disbelief.
 noun(disbeliefs,R) => R = disbelief.
 noun(disbeliever,R) => R = disbeliever.
@@ -22581,6 +22929,7 @@ noun(disinterest,R) => R = disinterest.
 noun(disinterestedness,R) => R = disinterestedness.
 noun(disinterestednesses,R) => R = disinterestedness.
 noun(disinterment,R) => R = disinterment.
+noun(disinterring,R) => R = disinterring.
 noun(disinvestment,R) => R = disinvestment.
 noun(disjoining,R) => R = disjoining.
 noun(disjointedness,R) => R = disjointedness.
@@ -23150,6 +23499,7 @@ noun(doha,R) => R = doha.
 noun(doi,R) => R = doi.
 noun(doilies,R) => R = doily.
 noun(doily,R) => R = doily.
+noun(doing,R) => R = doing.
 noun(doj,R) => R = doj.
 noun(dol,R) => R = dol.
 noun(dolby,R) => R = dolby.
@@ -23794,6 +24144,7 @@ noun(dropout,R) => R = dropout.
 noun(dropouts,R) => R = dropout.
 noun(dropper,R) => R = dropper.
 noun(droppers,R) => R = dropper.
+noun(dropping,R) => R = dropping.
 noun(drops,R) => R = drop.
 noun(dropseed,R) => R = dropseed.
 noun(dropsies,R) => R = dropsy.
@@ -24320,6 +24671,7 @@ noun(earnest,R) => R = earnest.
 noun(earnestness,R) => R = earnestness.
 noun(earnestnesses,R) => R = earnestness.
 noun(earnests,R) => R = earnest.
+noun(earning,R) => R = earning.
 noun(earphone,R) => R = earphone.
 noun(earphones,R) => R = earphone.
 noun(earpiece,R) => R = earpiece.
@@ -24395,6 +24747,7 @@ noun(eats,R) => R = eats.
 noun(eaves,R) => R = eaves.
 noun(eavesdropper,R) => R = eavesdropper.
 noun(eavesdroppers,R) => R = eavesdropper.
+noun(eavesdropping,R) => R = eavesdropping.
 noun(eb,R) => R = eb.
 noun(ebb,R) => R = ebb.
 noun(ebbing,R) => R = ebbing.
@@ -25851,6 +26204,7 @@ noun(entrant,R) => R = entrant.
 noun(entrants,R) => R = entrant.
 noun(entrapment,R) => R = entrapment.
 noun(entrapments,R) => R = entrapment.
+noun(entrapping,R) => R = entrapping.
 noun(entreaties,R) => R = entreaty.
 noun(entreating,R) => R = entreating.
 noun(entreaty,R) => R = entreaty.
@@ -25912,6 +26266,7 @@ noun(envoy,R) => R = envoy.
 noun(envoys,R) => R = envoy.
 noun(envy,R) => R = envy.
 noun(envying,R) => R = envying.
+noun(enwrapping,R) => R = enwrapping.
 noun(enzyme,R) => R = enzyme.
 noun(enzymes,R) => R = enzyme.
 noun(enzymologies,R) => R = enzymology.
@@ -27693,6 +28048,7 @@ noun(fallbacks,R) => R = fallback.
 noun(faller,R) => R = faller.
 noun(fallers,R) => R = faller.
 noun(fallibility,R) => R = fallibility.
+noun(falling,R) => R = falling.
 noun(falloff,R) => R = falloff.
 noun(falloffs,R) => R = falloff.
 noun(fallout,R) => R = fallout.
@@ -28156,6 +28512,7 @@ noun(fellatios,R) => R = fellatio.
 noun(feller,R) => R = feller.
 noun(fellers,R) => R = feller.
 noun(fellies,R) => R = felly.
+noun(felling,R) => R = felling.
 noun(fellini,R) => R = fellini.
 noun(felloe,R) => R = felloe.
 noun(felloes,R) => R = felloe.
@@ -28173,6 +28530,7 @@ noun(felony,R) => R = felony.
 noun(felspar,R) => R = felspar.
 noun(felspars,R) => R = felspar.
 noun(felt,R) => R = felt.
+noun(felting,R) => R = felting.
 noun(felts,R) => R = felt.
 noun(felucca,R) => R = felucca.
 noun(feluccas,R) => R = felucca.
@@ -29112,6 +29470,7 @@ noun(fledglings,R) => R = fledgling.
 noun(fleece,R) => R = fleece.
 noun(fleeces,R) => R = fleece.
 noun(fleecing,R) => R = fleecing.
+noun(fleeing,R) => R = fleeing.
 noun(fleen,R) => R = flea.
 noun(fleer,R) => R = fleer.
 noun(fleering,R) => R = fleering.
@@ -29177,6 +29536,7 @@ noun(flindersia,R) => R = flindersia.
 noun(flindosa,R) => R = flindosa.
 noun(flindosy,R) => R = flindosy.
 noun(fling,R) => R = fling.
+noun(flinging,R) => R = flinging.
 noun(flings,R) => R = fling.
 noun(flint,R) => R = flint.
 noun(flinthead,R) => R = flinthead.
@@ -29186,12 +29546,14 @@ noun(flints,R) => R = flint.
 noun(flintstone,R) => R = flintstone.
 noun(flip,R) => R = flip.
 noun('flip-flop',R) => R = 'flip-flop'.
+noun('flip-flopping',R) => R = 'flip-flopping'.
 noun('flip-flops',R) => R = 'flip-flop'.
 noun(fliping,R) => R = fliping.
 noun(flippancies,R) => R = flippancy.
 noun(flippancy,R) => R = flippancy.
 noun(flipper,R) => R = flipper.
 noun(flippers,R) => R = flipper.
+noun(flipping,R) => R = flipping.
 noun(flips,R) => R = flip.
 noun(flirt,R) => R = flirt.
 noun(flirtation,R) => R = flirtation.
@@ -29252,6 +29614,7 @@ noun(flop,R) => R = flop.
 noun(flophouse,R) => R = flophouse.
 noun(flophouses,R) => R = flophouse.
 noun(floppies,R) => R = floppy.
+noun(flopping,R) => R = flopping.
 noun(floppy,R) => R = floppy.
 noun(flops,R) => R = flop.
 noun(flora,R) => R = flora.
@@ -29680,6 +30043,7 @@ noun(forays,R) => R = foray.
 noun(forbear,R) => R = forbear.
 noun(forbearance,R) => R = forbearance.
 noun(forbearances,R) => R = forbearance.
+noun(forbearing,R) => R = forbearing.
 noun(forbears,R) => R = forbear.
 noun(forbiddance,R) => R = forbiddance.
 noun(forbidding,R) => R = forbidding.
@@ -29732,6 +30096,7 @@ noun(forefoot,R) => R = forefoot.
 noun(forefront,R) => R = forefront.
 noun(forefronts,R) => R = forefront.
 noun(foregathering,R) => R = foregathering.
+noun(foregoing,R) => R = foregoing.
 noun(foreground,R) => R = foreground.
 noun(foregrounds,R) => R = foreground.
 noun(forehand,R) => R = forehand.
@@ -29780,6 +30145,7 @@ noun(forerunners,R) => R = forerunner.
 noun(fores,R) => R = fore.
 noun(foresail,R) => R = foresail.
 noun(foresails,R) => R = foresail.
+noun(foreseeing,R) => R = foreseeing.
 noun(foreshadowing,R) => R = foreshadowing.
 noun(foreshank,R) => R = foreshank.
 noun(foreshock,R) => R = foreshock.
@@ -29844,6 +30210,7 @@ noun(forgiveness,R) => R = forgiveness.
 noun(forgivenesses,R) => R = forgiveness.
 noun(forgiver,R) => R = forgiver.
 noun(forgivers,R) => R = forgiver.
+noun(forgiving,R) => R = forgiving.
 noun(forgivingness,R) => R = forgivingness.
 noun(forgoing,R) => R = forgoing.
 noun(forint,R) => R = forint.
@@ -30158,6 +30525,7 @@ noun(franknesses,R) => R = frankness.
 noun(franks,R) => R = frank.
 noun(frappe,R) => R = frappe.
 noun(frappes,R) => R = frappe.
+noun(frapping,R) => R = frapping.
 noun(frasera,R) => R = frasera.
 noun(frat,R) => R = frat.
 noun(fratercula,R) => R = fratercula.
@@ -31131,6 +31499,7 @@ noun(gap,R) => R = gap.
 noun(gape,R) => R = gape.
 noun(gapes,R) => R = gape.
 noun(gaping,R) => R = gaping.
+noun(gapping,R) => R = gapping.
 noun(gaps,R) => R = gap.
 noun(gar,R) => R = gar.
 noun(garage,R) => R = garage.
@@ -31807,6 +32176,7 @@ noun(ghostliness,R) => R = ghostliness.
 noun(ghosts,R) => R = ghost.
 noun(ghostwriter,R) => R = ghostwriter.
 noun(ghostwriters,R) => R = ghostwriter.
+noun(ghostwriting,R) => R = ghostwriting.
 noun(ghoul,R) => R = ghoul.
 noun(ghouls,R) => R = ghoul.
 noun(ghq,R) => R = ghq.
@@ -31856,6 +32226,7 @@ noun(gidgee,R) => R = gidgee.
 noun(gielgud,R) => R = gielgud.
 noun(gies,R) => R = gy.
 noun(gift,R) => R = gift.
+noun('gift-wrapping',R) => R = 'gift-wrapping'.
 noun(gifting,R) => R = gifting.
 noun(gifts,R) => R = gift.
 noun(gig,R) => R = gig.
@@ -31954,6 +32325,7 @@ noun(ginsengs,R) => R = ginseng.
 noun(ginzo,R) => R = ginzo.
 noun(ginzoes,R) => R = ginzo.
 noun(giotto,R) => R = giotto.
+noun(gipping,R) => R = gipping.
 noun(gipsies,R) => R = gipsy.
 noun(gipsy,R) => R = gipsy.
 noun(gipsywort,R) => R = gipsywort.
@@ -31969,6 +32341,7 @@ noun(girasols,R) => R = girasol.
 noun(giraudoux,R) => R = giraudoux.
 noun(girder,R) => R = girder.
 noun(girders,R) => R = girder.
+noun(girding,R) => R = girding.
 noun(girdle,R) => R = girdle.
 noun(girdles,R) => R = girdle.
 noun(girdling,R) => R = girdling.
@@ -32700,6 +33073,7 @@ noun(gossipers,R) => R = gossiper.
 noun(gossiping,R) => R = gossiping.
 noun(gossipmonger,R) => R = gossipmonger.
 noun(gossipmongering,R) => R = gossipmongering.
+noun(gossipping,R) => R = gossipping.
 noun(gossips,R) => R = gossip.
 noun(gossypium,R) => R = gossypium.
 noun(goteborg,R) => R = goteborg.
@@ -33234,6 +33608,7 @@ noun(gripes,R) => R = gripe.
 noun(griping,R) => R = griping.
 noun(grippe,R) => R = grippe.
 noun(grippes,R) => R = grippe.
+noun(gripping,R) => R = gripping.
 noun(grips,R) => R = grip.
 noun(gripsack,R) => R = gripsack.
 noun(gripsacks,R) => R = gripsack.
@@ -33793,6 +34168,7 @@ noun(gynostegium,R) => R = gynostegium.
 noun(gynura,R) => R = gynura.
 noun(gyp,R) => R = gyp.
 noun(gypaetus,R) => R = gypaetus.
+noun(gypping,R) => R = gypping.
 noun(gyps,R) => R = gyp.
 noun(gypsies,R) => R = gypsy.
 noun(gypsophila,R) => R = gypsophila.
@@ -34265,6 +34641,7 @@ noun(hams,R) => R = ham.
 noun(hamster,R) => R = hamster.
 noun(hamsters,R) => R = hamster.
 noun(hamstring,R) => R = hamstring.
+noun(hamstringing,R) => R = hamstringing.
 noun(hamstrings,R) => R = hamstring.
 noun(hamsun,R) => R = hamsun.
 noun(han,R) => R = han.
@@ -34313,6 +34690,7 @@ noun(handicap,R) => R = handicap.
 noun(handicapped,R) => R = handicapped.
 noun(handicapper,R) => R = handicapper.
 noun(handicappers,R) => R = handicapper.
+noun(handicapping,R) => R = handicapping.
 noun(handicaps,R) => R = handicap.
 noun(handicraft,R) => R = handicraft.
 noun(handicrafts,R) => R = handicraft.
@@ -34425,6 +34803,7 @@ noun(happening,R) => R = happening.
 noun(happenings,R) => R = happening.
 noun(happenstance,R) => R = happenstance.
 noun(happiness,R) => R = happiness.
+noun(happing,R) => R = happing.
 noun(haps,R) => R = hap.
 noun(hapsburg,R) => R = hapsburg.
 noun(haptoglobin,R) => R = haptoglobin.
@@ -34598,7 +34977,6 @@ noun(harvesting,R) => R = harvesting.
 noun(harvestman,R) => R = harvestman.
 noun(harvests,R) => R = harvest.
 noun(harvey,R) => R = harvey.
-noun(has,R) => R = ha.
 noun('has-been',R) => R = 'has-been'.
 noun(hasdrubal,R) => R = hasdrubal.
 noun(hasek,R) => R = hasek.
@@ -34717,6 +35095,7 @@ noun(havens,R) => R = haven.
 noun(haversack,R) => R = haversack.
 noun(haversacks,R) => R = haversack.
 noun(haves,R) => R = have.
+noun(having,R) => R = having.
 noun(havoc,R) => R = havoc.
 noun(havocs,R) => R = havoc.
 noun(haw,R) => R = haw.
@@ -35031,6 +35410,7 @@ noun(hedera,R) => R = hedera.
 noun(hedge,R) => R = hedge.
 noun(hedgehog,R) => R = hedgehog.
 noun(hedgehogs,R) => R = hedgehog.
+noun(hedgehopping,R) => R = hedgehopping.
 noun(hedger,R) => R = hedger.
 noun(hedgerow,R) => R = hedgerow.
 noun(hedgerows,R) => R = hedgerow.
@@ -35533,6 +35913,7 @@ noun(hevea,R) => R = hevea.
 noun(hevesy,R) => R = hevesy.
 noun(hewer,R) => R = hewer.
 noun(hewers,R) => R = hewer.
+noun(hewing,R) => R = hewing.
 noun(hex,R) => R = hex.
 noun(hexachlorophene,R) => R = hexachlorophene.
 noun(hexad,R) => R = hexad.
@@ -35594,6 +35975,7 @@ noun(hiccoughing,R) => R = hiccoughing.
 noun(hiccoughs,R) => R = hiccough.
 noun(hiccup,R) => R = hiccup.
 noun(hiccuping,R) => R = hiccuping.
+noun(hiccupping,R) => R = hiccupping.
 noun(hiccups,R) => R = hiccup.
 noun(hick,R) => R = hick.
 noun(hickey,R) => R = hickey.
@@ -35980,6 +36362,7 @@ noun(hohenzollern,R) => R = hohenzollern.
 noun(hoist,R) => R = hoist.
 noun(hoister,R) => R = hoister.
 noun(hoisters,R) => R = hoister.
+noun(hoisting,R) => R = hoisting.
 noun(hoists,R) => R = hoist.
 noun(hokan,R) => R = hokan.
 noun(hokkaido,R) => R = hokkaido.
@@ -36356,6 +36739,7 @@ noun(hopkins,R) => R = hopkins.
 noun(hopkinson,R) => R = hopkinson.
 noun(hopper,R) => R = hopper.
 noun(hoppers,R) => R = hopper.
+noun(hopping,R) => R = hopping.
 noun(hoppling,R) => R = hoppling.
 noun(hops,R) => R = hop.
 noun(hopsack,R) => R = hopsack.
@@ -38615,6 +38999,7 @@ noun(inferiors,R) => R = inferior.
 noun(infernal,R) => R = infernal.
 noun(inferno,R) => R = inferno.
 noun(infernos,R) => R = inferno.
+noun(inferring,R) => R = inferring.
 noun(infertilities,R) => R = infertility.
 noun(infertility,R) => R = infertility.
 noun(infestation,R) => R = infestation.
@@ -38855,6 +39240,7 @@ noun(inkstands,R) => R = inkstand.
 noun(inkwell,R) => R = inkwell.
 noun(inkwells,R) => R = inkwell.
 noun(inlay,R) => R = inlay.
+noun(inlaying,R) => R = inlaying.
 noun(inlays,R) => R = inlay.
 noun(inlet,R) => R = inlet.
 noun(inlets,R) => R = inlet.
@@ -39367,6 +39753,7 @@ noun(interrelation,R) => R = interrelation.
 noun(interrelations,R) => R = interrelation.
 noun(interrelationship,R) => R = interrelationship.
 noun(interrelationships,R) => R = interrelationship.
+noun(interring,R) => R = interring.
 noun(interrogating,R) => R = interrogating.
 noun(interrogation,R) => R = interrogation.
 noun(interrogations,R) => R = interrogation.
@@ -39412,6 +39799,7 @@ noun(interviewer,R) => R = interviewer.
 noun(interviewers,R) => R = interviewer.
 noun(interviewing,R) => R = interviewing.
 noun(interviews,R) => R = interview.
+noun(interweaving,R) => R = interweaving.
 noun(intestacies,R) => R = intestacy.
 noun(intestacy,R) => R = intestacy.
 noun(intestine,R) => R = intestine.
@@ -40185,6 +40573,7 @@ noun(jargons,R) => R = jargon.
 noun(jargoon,R) => R = jargoon.
 noun(jargoons,R) => R = jargoon.
 noun(jarrell,R) => R = jarrell.
+noun(jarring,R) => R = jarring.
 noun(jars,R) => R = jar.
 noun(jasmine,R) => R = jasmine.
 noun(jasmines,R) => R = jasmine.
@@ -41439,6 +41828,7 @@ noun(kip,R) => R = kip.
 noun(kipling,R) => R = kipling.
 noun(kipper,R) => R = kipper.
 noun(kippers,R) => R = kipper.
+noun(kipping,R) => R = kipping.
 noun(kips,R) => R = kip.
 noun(kirchhoff,R) => R = kirchhoff.
 noun(kirchner,R) => R = kirchner.
@@ -41541,6 +41931,7 @@ noun(knackers,R) => R = knacker.
 noun(knacks,R) => R = knack.
 noun(knackwurst,R) => R = knackwurst.
 noun(knackwursts,R) => R = knackwurst.
+noun(knapping,R) => R = knapping.
 noun(knapsack,R) => R = knapsack.
 noun(knapsacks,R) => R = knapsack.
 noun(knapweed,R) => R = knapweed.
@@ -41555,6 +41946,7 @@ noun(kneading,R) => R = kneading.
 noun(knee,R) => R = knee.
 noun('knee-high',R) => R = 'knee-high'.
 noun(kneecap,R) => R = kneecap.
+noun(kneecapping,R) => R = kneecapping.
 noun(kneecaps,R) => R = kneecap.
 noun(kneel,R) => R = kneel.
 noun(kneeler,R) => R = kneeler.
@@ -42000,6 +42392,7 @@ noun(laddering,R) => R = laddering.
 noun(ladders,R) => R = ladder.
 noun(laddie,R) => R = laddie.
 noun(laddies,R) => R = laddie.
+noun(ladening,R) => R = ladening.
 noun(ladies,R) => R = lady.
 noun(ladin,R) => R = ladin.
 noun(lading,R) => R = lading.
@@ -44346,6 +44739,7 @@ noun(lophophorus,R) => R = lophophorus.
 noun(loping,R) => R = loping.
 noun(lopper,R) => R = lopper.
 noun(loppers,R) => R = lopper.
+noun(lopping,R) => R = lopping.
 noun(lopsidedness,R) => R = lopsidedness.
 noun(lopsidednesses,R) => R = lopsidedness.
 noun(loquaciousness,R) => R = loquaciousness.
@@ -44385,6 +44779,7 @@ noun(lorry,R) => R = lorry.
 noun(lory,R) => R = lory.
 noun(loser,R) => R = loser.
 noun(losers,R) => R = loser.
+noun(losing,R) => R = losing.
 noun(losings,R) => R = losings.
 noun(lost,R) => R = lost.
 noun(lot,R) => R = lot.
@@ -46082,6 +46477,7 @@ noun(marriageability,R) => R = marriageability.
 noun(marriages,R) => R = marriage.
 noun(married,R) => R = married.
 noun(marrieds,R) => R = married.
+noun(marring,R) => R = marring.
 noun(marrow,R) => R = marrow.
 noun(marrowbone,R) => R = marrowbone.
 noun(marrowbones,R) => R = marrowbone.
@@ -47950,7 +48346,6 @@ noun(mineralogy,R) => R = mineralogy.
 noun(minerals,R) => R = mineral.
 noun(miners,R) => R = miner.
 noun(minerva,R) => R = minerva.
-noun(mines,R) => R = mine.
 noun(minestrone,R) => R = minestrone.
 noun(minesweeper,R) => R = minesweeper.
 noun(minesweepers,R) => R = minesweeper.
@@ -48137,6 +48532,7 @@ noun(miscalling,R) => R = miscalling.
 noun(miscarriage,R) => R = miscarriage.
 noun(miscarriages,R) => R = miscarriage.
 noun(miscarrying,R) => R = miscarrying.
+noun(miscasting,R) => R = miscasting.
 noun(miscegenation,R) => R = miscegenation.
 noun(miscegenations,R) => R = miscegenation.
 noun(miscellanea,R) => R = miscellanea.
@@ -48170,6 +48566,7 @@ noun(miscue,R) => R = miscue.
 noun(miscues,R) => R = miscue.
 noun(misdating,R) => R = misdating.
 noun(misdeal,R) => R = misdeal.
+noun(misdealing,R) => R = misdealing.
 noun(misdeals,R) => R = misdeal.
 noun(misdeed,R) => R = misdeed.
 noun(misdeeds,R) => R = misdeed.
@@ -48180,6 +48577,7 @@ noun(misdemeanour,R) => R = misdemeanour.
 noun(misdirecting,R) => R = misdirecting.
 noun(misdirection,R) => R = misdirection.
 noun(misdirections,R) => R = misdirection.
+noun(misdoing,R) => R = misdoing.
 noun(miser,R) => R = miser.
 noun(miserableness,R) => R = miserableness.
 noun(miserablenesses,R) => R = miserableness.
@@ -48220,7 +48618,9 @@ noun(misinterpretation,R) => R = misinterpretation.
 noun(misinterpretations,R) => R = misinterpretation.
 noun(misinterpreting,R) => R = misinterpreting.
 noun(misjudging,R) => R = misjudging.
+noun(mislaying,R) => R = mislaying.
 noun(misleader,R) => R = misleader.
+noun(misleading,R) => R = misleading.
 noun(mismanagement,R) => R = mismanagement.
 noun(mismanagements,R) => R = mismanagement.
 noun(mismanaging,R) => R = mismanaging.
@@ -48299,8 +48699,10 @@ noun(missouri,R) => R = missouri.
 noun(missourian,R) => R = missourian.
 noun(missourians,R) => R = missourian.
 noun(missouris,R) => R = missouri.
+noun(misspeaking,R) => R = misspeaking.
 noun(misspelling,R) => R = misspelling.
 noun(misspellings,R) => R = misspelling.
+noun(misspending,R) => R = misspending.
 noun(misstatement,R) => R = misstatement.
 noun(misstatements,R) => R = misstatement.
 noun(misstating,R) => R = misstating.
@@ -49391,6 +49793,7 @@ noun(moving,R) => R = moving.
 noun(mow,R) => R = mow.
 noun(mower,R) => R = mower.
 noun(mowers,R) => R = mower.
+noun(mowing,R) => R = mowing.
 noun(mows,R) => R = mow.
 noun(moxie,R) => R = moxie.
 noun(moxies,R) => R = moxie.
@@ -50233,6 +50636,7 @@ noun(napoleon,R) => R = napoleon.
 noun(napoleons,R) => R = napoleon.
 noun(napoli,R) => R = napoli.
 noun(nappies,R) => R = nappy.
+noun(napping,R) => R = napping.
 noun(nappy,R) => R = nappy.
 noun(naprapath,R) => R = naprapath.
 noun(naprapathy,R) => R = naprapathy.
@@ -50561,6 +50965,7 @@ noun(need,R) => R = need.
 noun(needer,R) => R = needer.
 noun(needers,R) => R = needer.
 noun(neediness,R) => R = neediness.
+noun(needing,R) => R = needing.
 noun(needle,R) => R = needle.
 noun(needlebush,R) => R = needlebush.
 noun(needlecraft,R) => R = needlecraft.
@@ -51199,6 +51604,7 @@ noun(nip,R) => R = nip.
 noun(nipa,R) => R = nipa.
 noun(nipas,R) => R = nipa.
 noun(nipper,R) => R = nipper.
+noun(nipping,R) => R = nipping.
 noun(nipple,R) => R = nipple.
 noun(nipples,R) => R = nipple.
 noun(nippon,R) => R = nippon.
@@ -52234,6 +52640,7 @@ noun(occupying,R) => R = occupying.
 noun(occurrence,R) => R = occurrence.
 noun(occurrences,R) => R = occurrence.
 noun(occurrent,R) => R = occurrent.
+noun(occurring,R) => R = occurring.
 noun(ocean,R) => R = ocean.
 noun(oceanaut,R) => R = oceanaut.
 noun(oceanauts,R) => R = oceanaut.
@@ -52713,7 +53120,6 @@ noun(oneiromancy,R) => R = oneiromancy.
 noun(oneness,R) => R = oneness.
 noun(onenesses,R) => R = oneness.
 noun(onerousness,R) => R = onerousness.
-noun(ones,R) => R = one.
 noun(oni,R) => R = onus.
 noun(onia,R) => R = onion.
 noun(onion,R) => R = onion.
@@ -53485,8 +53891,10 @@ noun(outcrops,R) => R = outcrop.
 noun(outcry,R) => R = outcry.
 noun(outcrying,R) => R = outcrying.
 noun(outdistancing,R) => R = outdistancing.
+noun(outdoing,R) => R = outdoing.
 noun(outdoors,R) => R = outdoors.
 noun(outdoorsman,R) => R = outdoorsman.
+noun(outdrawing,R) => R = outdrawing.
 noun(outerwear,R) => R = outerwear.
 noun(outfacing,R) => R = outfacing.
 noun(outfall,R) => R = outfall.
@@ -53495,6 +53903,7 @@ noun(outfield,R) => R = outfield.
 noun(outfielder,R) => R = outfielder.
 noun(outfielders,R) => R = outfielder.
 noun(outfields,R) => R = outfield.
+noun(outfighting,R) => R = outfighting.
 noun(outfit,R) => R = outfit.
 noun(outfits,R) => R = outfit.
 noun(outfitter,R) => R = outfitter.
@@ -53510,6 +53919,7 @@ noun(outgo,R) => R = outgo.
 noun(outgoer,R) => R = outgoer.
 noun(outgoes,R) => R = outgo.
 noun(outgoing,R) => R = outgoing.
+noun(outgrowing,R) => R = outgrowing.
 noun(outgrowth,R) => R = outgrowth.
 noun(outgrowths,R) => R = outgrowth.
 noun(outguessing,R) => R = outguessing.
@@ -53566,6 +53976,7 @@ noun(outreach,R) => R = outreach.
 noun(outreaches,R) => R = outreach.
 noun(outrider,R) => R = outrider.
 noun(outriders,R) => R = outrider.
+noun(outriding,R) => R = outriding.
 noun(outrigger,R) => R = outrigger.
 noun(outriggers,R) => R = outrigger.
 noun(outrivaling,R) => R = outrivaling.
@@ -53573,6 +53984,7 @@ noun(outroaring,R) => R = outroaring.
 noun(outs,R) => R = out.
 noun(outsailing,R) => R = outsailing.
 noun(outscoring,R) => R = outscoring.
+noun(outselling,R) => R = outselling.
 noun(outset,R) => R = outset.
 noun(outsets,R) => R = outset.
 noun(outshining,R) => R = outshining.
@@ -53593,6 +54005,7 @@ noun(outstaring,R) => R = outstaring.
 noun(outstation,R) => R = outstation.
 noun(outstations,R) => R = outstation.
 noun(outstaying,R) => R = outstaying.
+noun(outstripping,R) => R = outstripping.
 noun(outstroke,R) => R = outstroke.
 noun(outtake,R) => R = outtake.
 noun(outtakes,R) => R = outtake.
@@ -53601,6 +54014,7 @@ noun(outturn,R) => R = outturn.
 noun(outturns,R) => R = outturn.
 noun(outvoting,R) => R = outvoting.
 noun(outwardness,R) => R = outwardness.
+noun(outwearing,R) => R = outwearing.
 noun(outweighing,R) => R = outweighing.
 noun(outwork,R) => R = outwork.
 noun(outworks,R) => R = outwork.
@@ -53640,6 +54054,7 @@ noun(overappraisal,R) => R = overappraisal.
 noun(overarching,R) => R = overarching.
 noun(overawing,R) => R = overawing.
 noun(overbalancing,R) => R = overbalancing.
+noun(overbearing,R) => R = overbearing.
 noun(overbearingness,R) => R = overbearingness.
 noun(overbid,R) => R = overbid.
 noun(overbids,R) => R = overbid.
@@ -53666,6 +54081,7 @@ noun(overcoat,R) => R = overcoat.
 noun(overcoating,R) => R = overcoating.
 noun(overcoats,R) => R = overcoat.
 noun(overcomer,R) => R = overcomer.
+noun(overcoming,R) => R = overcoming.
 noun(overcompensating,R) => R = overcompensating.
 noun(overcompensation,R) => R = overcompensation.
 noun(overcompensations,R) => R = overcompensation.
@@ -53673,16 +54089,20 @@ noun(overconfidence,R) => R = overconfidence.
 noun(overconfidences,R) => R = overconfidence.
 noun(overcooking,R) => R = overcooking.
 noun(overcredulity,R) => R = overcredulity.
+noun(overcropping,R) => R = overcropping.
 noun(overcrossing,R) => R = overcrossing.
 noun(overcrowding,R) => R = overcrowding.
 noun(overcultivating,R) => R = overcultivating.
+noun(overdoing,R) => R = overdoing.
 noun(overdosing,R) => R = overdosing.
 noun(overdraft,R) => R = overdraft.
 noun(overdrafts,R) => R = overdraft.
 noun(overdramatizing,R) => R = overdramatizing.
+noun(overdrawing,R) => R = overdrawing.
 noun(overdressing,R) => R = overdressing.
 noun(overdrive,R) => R = overdrive.
 noun(overdrives,R) => R = overdrive.
+noun(overdriving,R) => R = overdriving.
 noun(overeating,R) => R = overeating.
 noun(overemphases,R) => R = overemphasis.
 noun(overemphasis,R) => R = overemphasis.
@@ -53706,16 +54126,20 @@ noun(overflights,R) => R = overflight.
 noun(overflow,R) => R = overflow.
 noun(overflowing,R) => R = overflowing.
 noun(overflows,R) => R = overflow.
+noun(overflying,R) => R = overflying.
 noun(overgarment,R) => R = overgarment.
 noun(overgeneralizing,R) => R = overgeneralizing.
+noun(overgrowing,R) => R = overgrowing.
 noun(overgrowth,R) => R = overgrowth.
 noun(overhang,R) => R = overhang.
+noun(overhanging,R) => R = overhanging.
 noun(overhangs,R) => R = overhang.
 noun(overhaul,R) => R = overhaul.
 noun(overhauling,R) => R = overhauling.
 noun(overhauls,R) => R = overhaul.
 noun(overhead,R) => R = overhead.
 noun(overheads,R) => R = overhead.
+noun(overhearing,R) => R = overhearing.
 noun(overheating,R) => R = overheating.
 noun(overindulgence,R) => R = overindulgence.
 noun(overindulging,R) => R = overindulging.
@@ -53727,6 +54151,7 @@ noun(overlapping,R) => R = overlapping.
 noun(overlaps,R) => R = overlap.
 noun(overlay,R) => R = overlay.
 noun(overlayer,R) => R = overlayer.
+noun(overlaying,R) => R = overlaying.
 noun(overlays,R) => R = overlay.
 noun(overleaping,R) => R = overleaping.
 noun(overlip,R) => R = overlip.
@@ -53748,6 +54173,7 @@ noun(overnighter,R) => R = overnighter.
 noun(overnighters,R) => R = overnighter.
 noun(overpass,R) => R = overpass.
 noun(overpasses,R) => R = overpass.
+noun(overpaying,R) => R = overpaying.
 noun(overpayment,R) => R = overpayment.
 noun(overpayments,R) => R = overpayment.
 noun(overplaying,R) => R = overplaying.
@@ -53778,17 +54204,21 @@ noun(overrefinement,R) => R = overrefinement.
 noun(overrefining,R) => R = overrefining.
 noun(override,R) => R = override.
 noun(overrides,R) => R = override.
+noun(overriding,R) => R = overriding.
 noun(overruling,R) => R = overruling.
 noun(overrun,R) => R = overrun.
 noun(overruns,R) => R = overrun.
 noun(overs,R) => R = over.
+noun(overseeing,R) => R = overseeing.
 noun(overseer,R) => R = overseer.
 noun(overseers,R) => R = overseer.
 noun(oversensitiveness,R) => R = oversensitiveness.
+noun(oversewing,R) => R = oversewing.
 noun(overshadowing,R) => R = overshadowing.
 noun(overshoe,R) => R = overshoe.
 noun(overshoes,R) => R = overshoe.
 noun(overshoot,R) => R = overshoot.
+noun(overshooting,R) => R = overshooting.
 noun(overshoots,R) => R = overshoot.
 noun(oversight,R) => R = oversight.
 noun(oversights,R) => R = oversight.
@@ -53796,12 +54226,16 @@ noun(oversimplification,R) => R = oversimplification.
 noun(oversimplifications,R) => R = oversimplification.
 noun(oversimplifying,R) => R = oversimplifying.
 noun(overskirt,R) => R = overskirt.
+noun(oversleeping,R) => R = oversleeping.
 noun(overspecializing,R) => R = overspecializing.
+noun(overspending,R) => R = overspending.
 noun(overspill,R) => R = overspill.
+noun(overspreading,R) => R = overspreading.
 noun(overstatement,R) => R = overstatement.
 noun(overstatements,R) => R = overstatement.
 noun(overstating,R) => R = overstating.
 noun(overstaying,R) => R = overstaying.
+noun(overstepping,R) => R = overstepping.
 noun(overstocking,R) => R = overstocking.
 noun(overstrain,R) => R = overstrain.
 noun(overstraining,R) => R = overstraining.
@@ -53814,6 +54248,7 @@ noun(oversupplying,R) => R = oversupplying.
 noun(overtaking,R) => R = overtaking.
 noun(overtaxing,R) => R = overtaxing.
 noun(overthrow,R) => R = overthrow.
+noun(overthrowing,R) => R = overthrowing.
 noun(overthrows,R) => R = overthrow.
 noun(overtime,R) => R = overtime.
 noun(overtimes,R) => R = overtime.
@@ -53821,6 +54256,7 @@ noun(overtiring,R) => R = overtiring.
 noun(overtolerance,R) => R = overtolerance.
 noun(overtone,R) => R = overtone.
 noun(overtones,R) => R = overtone.
+noun(overtopping,R) => R = overtopping.
 noun(overture,R) => R = overture.
 noun(overtures,R) => R = overture.
 noun(overturn,R) => R = overturn.
@@ -53839,6 +54275,7 @@ noun(overwintering,R) => R = overwintering.
 noun(overwork,R) => R = overwork.
 noun(overworking,R) => R = overworking.
 noun(overworks,R) => R = overwork.
+noun(overwriting,R) => R = overwriting.
 noun(ovibos,R) => R = ovibos.
 noun(ovid,R) => R = ovid.
 noun(oviduct,R) => R = oviduct.
@@ -54874,6 +55311,7 @@ noun(parrakeets,R) => R = parrakeet.
 noun(parricide,R) => R = parricide.
 noun(parricides,R) => R = parricide.
 noun(parries,R) => R = parry.
+noun(parring,R) => R = parring.
 noun(parrish,R) => R = parrish.
 noun(parroket,R) => R = parroket.
 noun(parrokets,R) => R = parroket.
@@ -54912,6 +55350,7 @@ noun('part-owner',R) => R = 'part-owner'.
 noun('part-timer',R) => R = 'part-timer'.
 noun(partaker,R) => R = partaker.
 noun(partakers,R) => R = partaker.
+noun(partaking,R) => R = partaking.
 noun(parterre,R) => R = parterre.
 noun(parterres,R) => R = parterre.
 noun(parthena,R) => R = parthenon.
@@ -55318,6 +55757,7 @@ noun(payees,R) => R = payee.
 noun(payer,R) => R = payer.
 noun(payers,R) => R = payer.
 noun(paygrade,R) => R = paygrade.
+noun(paying,R) => R = paying.
 noun(payload,R) => R = payload.
 noun(payloads,R) => R = payload.
 noun(paymaster,R) => R = paymaster.
@@ -57307,6 +57747,7 @@ noun(pipistrellus,R) => R = pipistrellus.
 noun(pipit,R) => R = pipit.
 noun(pipits,R) => R = pipit.
 noun(pippin,R) => R = pippin.
+noun(pipping,R) => R = pipping.
 noun(pippins,R) => R = pippin.
 noun(pipra,R) => R = pipra.
 noun(pipridae,R) => R = pipridae.
@@ -57368,6 +57809,7 @@ noun(pistil,R) => R = pistil.
 noun(pistillode,R) => R = pistillode.
 noun(pistils,R) => R = pistil.
 noun(pistol,R) => R = pistol.
+noun('pistol-whipping',R) => R = 'pistol-whipping'.
 noun(pistoleer,R) => R = pistoleer.
 noun(pistols,R) => R = pistol.
 noun(piston,R) => R = piston.
@@ -57883,6 +58325,7 @@ noun(plonk,R) => R = plonk.
 noun(plonking,R) => R = plonking.
 noun(plonks,R) => R = plonk.
 noun(plop,R) => R = plop.
+noun(plopping,R) => R = plopping.
 noun(plops,R) => R = plop.
 noun(plos,R) => R = plo.
 noun(plosion,R) => R = plosion.
@@ -59291,6 +59734,7 @@ noun(preference,R) => R = preference.
 noun(preferences,R) => R = preference.
 noun(preferment,R) => R = preferment.
 noun(preferments,R) => R = preferment.
+noun(preferring,R) => R = preferring.
 noun(prefiguration,R) => R = prefiguration.
 noun(prefiguring,R) => R = prefiguring.
 noun(prefix,R) => R = prefix.
@@ -59369,6 +59813,7 @@ noun(preparations,R) => R = preparation.
 noun(preparedness,R) => R = preparedness.
 noun(preparednesses,R) => R = preparedness.
 noun(preparing,R) => R = preparing.
+noun(prepaying,R) => R = prepaying.
 noun(prepayment,R) => R = prepayment.
 noun(prepayments,R) => R = prepayment.
 noun(preponderance,R) => R = preponderance.
@@ -60052,6 +60497,7 @@ noun(proof,R) => R = proof.
 noun(proofing,R) => R = proofing.
 noun(proofreader,R) => R = proofreader.
 noun(proofreaders,R) => R = proofreader.
+noun(proofreading,R) => R = proofreading.
 noun(proofs,R) => R = proof.
 noun(prop,R) => R = prop.
 noun(propaedeutic,R) => R = propaedeutic.
@@ -60132,6 +60578,7 @@ noun(propositions,R) => R = proposition.
 noun(propositus,R) => R = propositus.
 noun(propounding,R) => R = propounding.
 noun(propoxyphene,R) => R = propoxyphene.
+noun(propping,R) => R = propping.
 noun(proprietaries,R) => R = proprietary.
 noun(proprietary,R) => R = proprietary.
 noun(proprieties,R) => R = propriety.
@@ -60336,6 +60783,7 @@ noun(provinces,R) => R = province.
 noun(provincial,R) => R = provincial.
 noun(provincialism,R) => R = provincialism.
 noun(provincialisms,R) => R = provincialism.
+noun(proving,R) => R = proving.
 noun(provirus,R) => R = provirus.
 noun(proviruses,R) => R = provirus.
 noun(provision,R) => R = provision.
@@ -60812,6 +61260,7 @@ noun(puppetries,R) => R = puppetry.
 noun(puppetry,R) => R = puppetry.
 noun(puppets,R) => R = puppet.
 noun(puppies,R) => R = puppy.
+noun(pupping,R) => R = pupping.
 noun(puppis,R) => R = puppis.
 noun(puppy,R) => R = puppy.
 noun(pups,R) => R = pup.
@@ -60956,6 +61405,7 @@ noun('put-down',R) => R = 'put-down'.
 noun('put-on',R) => R = 'put-on'.
 noun('put-put',R) => R = 'put-put'.
 noun(putamen,R) => R = putamen.
+noun(puting,R) => R = puting.
 noun(putoff,R) => R = putoff.
 noun(putoffs,R) => R = putoff.
 noun(putout,R) => R = putout.
@@ -61501,6 +61951,7 @@ noun(quintuplet,R) => R = quintuplet.
 noun(quintuplets,R) => R = quintuplet.
 noun(quintupling,R) => R = quintupling.
 noun(quip,R) => R = quip.
+noun(quipping,R) => R = quipping.
 noun(quips,R) => R = quip.
 noun(quipu,R) => R = quipu.
 noun(quipus,R) => R = quipu.
@@ -61518,6 +61969,7 @@ noun(quislingism,R) => R = quislingism.
 noun(quislings,R) => R = quisling.
 noun(quitclaim,R) => R = quitclaim.
 noun(quitclaims,R) => R = quitclaim.
+noun(quiting,R) => R = quiting.
 noun(quito,R) => R = quito.
 noun(quittance,R) => R = quittance.
 noun(quittances,R) => R = quittance.
@@ -62036,6 +62488,7 @@ noun(rappeling,R) => R = rappeling.
 noun(rappels,R) => R = rappel.
 noun(rapper,R) => R = rapper.
 noun(rappers,R) => R = rapper.
+noun(rapping,R) => R = rapping.
 noun(rapport,R) => R = rapport.
 noun(rapporteur,R) => R = rapporteur.
 noun(rapports,R) => R = rapport.
@@ -62392,6 +62845,7 @@ noun(reassuring,R) => R = reassuring.
 noun(reata,R) => R = reata.
 noun(reatas,R) => R = reata.
 noun(reaumur,R) => R = reaumur.
+noun(reaving,R) => R = reaving.
 noun(reawakening,R) => R = reawakening.
 noun(reb,R) => R = reb.
 noun(rebate,R) => R = rebate.
@@ -62456,6 +62910,7 @@ noun(recap,R) => R = recap.
 noun(recapitulating,R) => R = recapitulating.
 noun(recapitulation,R) => R = recapitulation.
 noun(recapitulations,R) => R = recapitulation.
+noun(recapping,R) => R = recapping.
 noun(recaps,R) => R = recap.
 noun(recapture,R) => R = recapture.
 noun(recaptures,R) => R = recapture.
@@ -62665,6 +63120,7 @@ noun(recuperation,R) => R = recuperation.
 noun(recuperations,R) => R = recuperation.
 noun(recurrence,R) => R = recurrence.
 noun(recurrences,R) => R = recurrence.
+noun(recurring,R) => R = recurring.
 noun(recursion,R) => R = recursion.
 noun(recursions,R) => R = recursion.
 noun(recurving,R) => R = recurving.
@@ -62752,6 +63208,7 @@ noun(redneck,R) => R = redneck.
 noun(rednecks,R) => R = redneck.
 noun(redness,R) => R = redness.
 noun(rednesses,R) => R = redness.
+noun(redoing,R) => R = redoing.
 noun(redolence,R) => R = redolence.
 noun(redolences,R) => R = redolence.
 noun(redoubling,R) => R = redoubling.
@@ -62860,6 +63317,7 @@ noun(referent,R) => R = referent.
 noun(referents,R) => R = referent.
 noun(referral,R) => R = referral.
 noun(referrals,R) => R = referral.
+noun(referring,R) => R = referring.
 noun(refill,R) => R = refill.
 noun(refilling,R) => R = refilling.
 noun(refills,R) => R = refill.
@@ -63027,6 +63485,7 @@ noun(regressions,R) => R = regression.
 noun(regret,R) => R = regret.
 noun(regrets,R) => R = regret.
 noun(regrouping,R) => R = regrouping.
+noun(regrowing,R) => R = regrowing.
 noun(regular,R) => R = regular.
 noun(regularities,R) => R = regularity.
 noun(regularity,R) => R = regularity.
@@ -63151,6 +63610,7 @@ noun(relaxins,R) => R = relaxin.
 noun(relay,R) => R = relay.
 noun(relaying,R) => R = relaying.
 noun(relays,R) => R = relay.
+noun(relearning,R) => R = relearning.
 noun(release,R) => R = release.
 noun(releases,R) => R = release.
 noun(releasing,R) => R = releasing.
@@ -63307,6 +63767,7 @@ noun(renders,R) => R = render.
 noun(rendezvous,R) => R = rendezvous.
 noun(rendezvouses,R) => R = rendezvous.
 noun(rendezvousing,R) => R = rendezvousing.
+noun(rending,R) => R = rending.
 noun(rendition,R) => R = rendition.
 noun(renditions,R) => R = rendition.
 noun(renegade,R) => R = renegade.
@@ -63386,6 +63847,7 @@ noun(repatriates,R) => R = repatriate.
 noun(repatriating,R) => R = repatriating.
 noun(repatriation,R) => R = repatriation.
 noun(repatriations,R) => R = repatriation.
+noun(repaying,R) => R = repaying.
 noun(repayment,R) => R = repayment.
 noun(repayments,R) => R = repayment.
 noun(repeal,R) => R = repeal.
@@ -63509,6 +63971,7 @@ noun(reproval,R) => R = reproval.
 noun(reprovals,R) => R = reproval.
 noun(reprover,R) => R = reprover.
 noun(reprovers,R) => R = reprover.
+noun(reproving,R) => R = reproving.
 noun(reps,R) => R = rep.
 noun(reptantia,R) => R = reptantia.
 noun(reptile,R) => R = reptile.
@@ -63566,6 +64029,7 @@ noun(requisitions,R) => R = requisition.
 noun(requital,R) => R = requital.
 noun(requitals,R) => R = requital.
 noun(requiting,R) => R = requiting.
+noun(rereading,R) => R = rereading.
 noun(rerebrace,R) => R = rerebrace.
 noun(reredos,R) => R = reredos.
 noun(reredoses,R) => R = reredos.
@@ -63600,9 +64064,11 @@ noun(reseda,R) => R = reseda.
 noun(resedaceae,R) => R = resedaceae.
 noun(resedas,R) => R = reseda.
 noun(reseeding,R) => R = reseeding.
+noun(reselling,R) => R = reselling.
 noun(resemblance,R) => R = resemblance.
 noun(resemblances,R) => R = resemblance.
 noun(resembling,R) => R = resembling.
+noun(resenting,R) => R = resenting.
 noun(resentment,R) => R = resentment.
 noun(resentments,R) => R = resentment.
 noun(reserpine,R) => R = reserpine.
@@ -63626,6 +64092,8 @@ noun(reshaping,R) => R = reshaping.
 noun(reshes,R) => R = resh.
 noun(reshipment,R) => R = reshipment.
 noun(reshipments,R) => R = reshipment.
+noun(reshipping,R) => R = reshipping.
+noun(reshooting,R) => R = reshooting.
 noun(resht,R) => R = resht.
 noun(reshuffle,R) => R = reshuffle.
 noun(reshuffles,R) => R = reshuffle.
@@ -63838,6 +64306,7 @@ noun(retentiveness,R) => R = retentiveness.
 noun(retentivities,R) => R = retentivity.
 noun(retentivity,R) => R = retentivity.
 noun(rethink,R) => R = rethink.
+noun(rethinking,R) => R = rethinking.
 noun(rethinks,R) => R = rethink.
 noun(reticence,R) => R = reticence.
 noun(reticences,R) => R = reticence.
@@ -63883,6 +64352,7 @@ noun(retraining,R) => R = retraining.
 noun(retranslating,R) => R = retranslating.
 noun(retransmiting,R) => R = retransmiting.
 noun(retread,R) => R = retread.
+noun(retreading,R) => R = retreading.
 noun(retreads,R) => R = retread.
 noun(retreat,R) => R = retreat.
 noun(retreatant,R) => R = retreatant.
@@ -64485,6 +64955,7 @@ noun(ripostes,R) => R = riposte.
 noun(riposting,R) => R = riposting.
 noun(ripper,R) => R = ripper.
 noun(rippers,R) => R = ripper.
+noun(ripping,R) => R = ripping.
 noun(ripple,R) => R = ripple.
 noun('ripple-grass',R) => R = 'ripple-grass'.
 noun(ripples,R) => R = ripple.
@@ -64548,6 +65019,7 @@ noun(rivets,R) => R = rivet.
 noun(riviera,R) => R = riviera.
 noun(rivieras,R) => R = riviera.
 noun(rivina,R) => R = rivina.
+noun(riving,R) => R = riving.
 noun(rivulet,R) => R = rivulet.
 noun(rivulets,R) => R = rivulet.
 noun(rivulus,R) => R = rivulus.
@@ -66014,6 +66486,7 @@ noun(sapphirine,R) => R = sapphirine.
 noun(sapphism,R) => R = sapphism.
 noun(sapphisms,R) => R = sapphism.
 noun(sappho,R) => R = sappho.
+noun(sapping,R) => R = sapping.
 noun(sapporo,R) => R = sapporo.
 noun(sapraemia,R) => R = sapraemia.
 noun(sapremia,R) => R = sapremia.
@@ -66327,6 +66800,7 @@ noun(sawflies,R) => R = sawfly.
 noun(sawfly,R) => R = sawfly.
 noun(sawhorse,R) => R = sawhorse.
 noun(sawhorses,R) => R = sawhorse.
+noun(sawing,R) => R = sawing.
 noun(sawmill,R) => R = sawmill.
 noun(sawmills,R) => R = sawmill.
 noun(sawpit,R) => R = sawpit.
@@ -66511,6 +66985,7 @@ noun(scarlets,R) => R = scarlet.
 noun(scarp,R) => R = scarp.
 noun(scarpering,R) => R = scarpering.
 noun(scarps,R) => R = scarp.
+noun(scarring,R) => R = scarring.
 noun(scars,R) => R = scar.
 noun(scarves,R) => R = scarf.
 noun(scat,R) => R = scat.
@@ -66624,6 +67099,7 @@ noun(schlemiel,R) => R = schlemiel.
 noun(schlemiels,R) => R = schlemiel.
 noun(schlep,R) => R = schlep.
 noun(schlepper,R) => R = schlepper.
+noun(schlepping,R) => R = schlepping.
 noun(schleps,R) => R = schlep.
 noun(schlesien,R) => R = schlesien.
 noun(schlesinger,R) => R = schlesinger.
@@ -66966,6 +67442,7 @@ noun(scrapings,R) => R = scraping.
 noun(scrapper,R) => R = scrapper.
 noun(scrappers,R) => R = scrapper.
 noun(scrappiness,R) => R = scrappiness.
+noun(scrapping,R) => R = scrapping.
 noun(scrapple,R) => R = scrapple.
 noun(scrapples,R) => R = scrapple.
 noun(scraps,R) => R = scrap.
@@ -68727,6 +69204,7 @@ noun(shoeblack,R) => R = shoeblack.
 noun(shoehorn,R) => R = shoehorn.
 noun(shoehorning,R) => R = shoehorning.
 noun(shoehorns,R) => R = shoehorn.
+noun(shoeing,R) => R = shoeing.
 noun(shoelace,R) => R = shoelace.
 noun(shoelaces,R) => R = shoelace.
 noun(shoemaker,R) => R = shoemaker.
@@ -68962,6 +69440,7 @@ noun(shute,R) => R = shute.
 noun(shutes,R) => R = shute.
 noun(shuteye,R) => R = shuteye.
 noun(shuteyes,R) => R = shuteye.
+noun(shuting,R) => R = shuting.
 noun(shutout,R) => R = shutout.
 noun(shutouts,R) => R = shutout.
 noun(shutter,R) => R = shutter.
@@ -69075,6 +69554,7 @@ noun(sideslips,R) => R = sideslip.
 noun(sidesman,R) => R = sidesman.
 noun(sidesplitter,R) => R = sidesplitter.
 noun(sidestep,R) => R = sidestep.
+noun(sidestepping,R) => R = sidestepping.
 noun(sidesteps,R) => R = sidestep.
 noun(sidestroke,R) => R = sidestroke.
 noun(sidestrokes,R) => R = sidestroke.
@@ -69457,6 +69937,7 @@ noun(siphons,R) => R = siphon.
 noun(siping,R) => R = siping.
 noun(sipper,R) => R = sipper.
 noun(sippers,R) => R = sipper.
+noun(sipping,R) => R = sipping.
 noun(sips,R) => R = sip.
 noun(sipunculid,R) => R = sipunculid.
 noun(siqueiros,R) => R = siqueiros.
@@ -69679,6 +70160,7 @@ noun(skinniness,R) => R = skinniness.
 noun(skinny,R) => R = skinny.
 noun('skinny-dip',R) => R = 'skinny-dip'.
 noun('skinny-dipper',R) => R = 'skinny-dipper'.
+noun('skinny-dipping',R) => R = 'skinny-dipping'.
 noun(skins,R) => R = skin.
 noun(skip,R) => R = skip.
 noun('skip-bombing',R) => R = 'skip-bombing'.
@@ -69687,6 +70169,7 @@ noun(skipjacks,R) => R = skipjack.
 noun(skipper,R) => R = skipper.
 noun(skippering,R) => R = skippering.
 noun(skippers,R) => R = skipper.
+noun(skipping,R) => R = skipping.
 noun(skips,R) => R = skip.
 noun(skirl,R) => R = skirl.
 noun(skirling,R) => R = skirling.
@@ -69805,6 +70288,7 @@ noun(slants,R) => R = slant.
 noun(slap,R) => R = slap.
 noun(slapper,R) => R = slapper.
 noun(slappers,R) => R = slapper.
+noun(slapping,R) => R = slapping.
 noun(slaps,R) => R = slap.
 noun(slapshot,R) => R = slapshot.
 noun(slapstick,R) => R = slapstick.
@@ -69904,6 +70388,7 @@ noun(sleuthhound,R) => R = sleuthhound.
 noun(sleuthing,R) => R = sleuthing.
 noun(sleuths,R) => R = sleuth.
 noun(slew,R) => R = slew.
+noun(slewing,R) => R = slewing.
 noun(slews,R) => R = slew.
 noun(slezsko,R) => R = slezsko.
 noun(slice,R) => R = slice.
@@ -69923,6 +70408,7 @@ noun(sliders,R) => R = slider.
 noun(slides,R) => R = slide.
 noun(slideway,R) => R = slideway.
 noun(slideways,R) => R = slideway.
+noun(sliding,R) => R = sliding.
 noun(slight,R) => R = slight.
 noun(slighting,R) => R = slighting.
 noun(slightness,R) => R = slightness.
@@ -69941,6 +70427,7 @@ noun(slinging,R) => R = slinging.
 noun(slings,R) => R = sling.
 noun(slingshot,R) => R = slingshot.
 noun(slingshots,R) => R = slingshot.
+noun(slinking,R) => R = slinking.
 noun(slip,R) => R = slip.
 noun('slip-on',R) => R = 'slip-on'.
 noun('slip-up',R) => R = 'slip-up'.
@@ -69958,6 +70445,7 @@ noun(slipperiness,R) => R = slipperiness.
 noun(slipperinesses,R) => R = slipperiness.
 noun(slippers,R) => R = slipper.
 noun(slipperwort,R) => R = slipperwort.
+noun(slipping,R) => R = slipping.
 noun(slips,R) => R = slip.
 noun(slipstick,R) => R = slipstick.
 noun(slipstream,R) => R = slipstream.
@@ -69965,6 +70453,7 @@ noun(slipway,R) => R = slipway.
 noun(slipways,R) => R = slipway.
 noun(slit,R) => R = slit.
 noun(slithering,R) => R = slithering.
+noun(sliting,R) => R = sliting.
 noun(slits,R) => R = slit.
 noun(sliver,R) => R = sliver.
 noun(slivering,R) => R = slivering.
@@ -69992,6 +70481,7 @@ noun(slope,R) => R = slope.
 noun(slopes,R) => R = slope.
 noun(sloping,R) => R = sloping.
 noun(sloppiness,R) => R = sloppiness.
+noun(slopping,R) => R = slopping.
 noun(slops,R) => R = slop.
 noun(slopseller,R) => R = slopseller.
 noun(slopshop,R) => R = slopshop.
@@ -70064,6 +70554,7 @@ noun(slums,R) => R = slum.
 noun(slur,R) => R = slur.
 noun(slurping,R) => R = slurping.
 noun(slurries,R) => R = slurry.
+noun(slurring,R) => R = slurring.
 noun(slurry,R) => R = slurry.
 noun(slurs,R) => R = slur.
 noun(slush,R) => R = slush.
@@ -70122,6 +70613,7 @@ noun(smelter,R) => R = smelter.
 noun(smelteries,R) => R = smeltery.
 noun(smelters,R) => R = smelter.
 noun(smeltery,R) => R = smeltery.
+noun(smelting,R) => R = smelting.
 noun(smelts,R) => R = smelt.
 noun(smetana,R) => R = smetana.
 noun(smew,R) => R = smew.
@@ -70156,6 +70648,7 @@ noun(smithereens,R) => R = smithereens.
 noun(smithies,R) => R = smithy.
 noun(smiths,R) => R = smith.
 noun(smithy,R) => R = smithy.
+noun(smiting,R) => R = smiting.
 noun(smock,R) => R = smock.
 noun(smocking,R) => R = smocking.
 noun(smockings,R) => R = smocking.
@@ -70258,6 +70751,7 @@ noun(snapdragons,R) => R = snapdragon.
 noun(snapline,R) => R = snapline.
 noun(snapper,R) => R = snapper.
 noun(snappers,R) => R = snapper.
+noun(snapping,R) => R = snapping.
 noun(snappishness,R) => R = snappishness.
 noun(snaps,R) => R = snap.
 noun(snapshot,R) => R = snapshot.
@@ -70282,6 +70776,7 @@ noun(sneak,R) => R = sneak.
 noun(sneaker,R) => R = sneaker.
 noun(sneakers,R) => R = sneaker.
 noun(sneakiness,R) => R = sneakiness.
+noun(sneaking,R) => R = sneaking.
 noun(sneaks,R) => R = sneak.
 noun(sneer,R) => R = sneer.
 noun(sneerer,R) => R = sneerer.
@@ -70876,6 +71371,7 @@ noun(sopor,R) => R = sopor.
 noun(soporific,R) => R = soporific.
 noun(soporifics,R) => R = soporific.
 noun(sopors,R) => R = sopor.
+noun(sopping,R) => R = sopping.
 noun(soprano,R) => R = soprano.
 noun(sopranos,R) => R = soprano.
 noun(sops,R) => R = sop.
@@ -71074,6 +71570,7 @@ noun(sowbreads,R) => R = sowbread.
 noun(sower,R) => R = sower.
 noun(sowers,R) => R = sower.
 noun(soweto,R) => R = soweto.
+noun(sowing,R) => R = sowing.
 noun(sows,R) => R = sow.
 noun(soy,R) => R = soy.
 noun(soya,R) => R = soya.
@@ -71141,6 +71638,7 @@ noun(spaniard,R) => R = spaniard.
 noun(spaniards,R) => R = spaniard.
 noun(spaniel,R) => R = spaniel.
 noun(spaniels,R) => R = spaniel.
+noun(spaning,R) => R = spaning.
 noun(spanish,R) => R = spanish.
 noun(spank,R) => R = spank.
 noun(spanker,R) => R = spanker.
@@ -71213,6 +71711,7 @@ noun(spates,R) => R = spate.
 noun(spathe,R) => R = spathe.
 noun(spathes,R) => R = spathe.
 noun(spatiality,R) => R = spatiality.
+noun(spating,R) => R = spating.
 noun(spats,R) => R = spat.
 noun(spatter,R) => R = spatter.
 noun(spatterdock,R) => R = spatterdock.
@@ -71504,6 +72003,7 @@ noun(spiller,R) => R = spiller.
 noun(spillers,R) => R = spiller.
 noun(spillikin,R) => R = spillikin.
 noun(spillikins,R) => R = spillikin.
+noun(spilling,R) => R = spilling.
 noun(spillover,R) => R = spillover.
 noun(spills,R) => R = spill.
 noun(spillway,R) => R = spillway.
@@ -71862,6 +72362,7 @@ noun(springer,R) => R = springer.
 noun(springers,R) => R = springer.
 noun(springfield,R) => R = springfield.
 noun(springiness,R) => R = springiness.
+noun(springing,R) => R = springing.
 noun(springs,R) => R = spring.
 noun(springtail,R) => R = springtail.
 noun(springtide,R) => R = springtide.
@@ -72298,6 +72799,7 @@ noun(starlights,R) => R = starlight.
 noun(starling,R) => R = starling.
 noun(starlings,R) => R = starling.
 noun(starr,R) => R = starr.
+noun(starring,R) => R = starring.
 noun(stars,R) => R = star.
 noun(starship,R) => R = starship.
 noun(start,R) => R = start.
@@ -72377,6 +72879,7 @@ noun(staunchness,R) => R = staunchness.
 noun(stavanger,R) => R = stavanger.
 noun(stave,R) => R = stave.
 noun(staves,R) => R = stave.
+noun(staving,R) => R = staving.
 noun(stay,R) => R = stay.
 noun('stay-at-home',R) => R = 'stay-at-home'.
 noun(stayer,R) => R = stayer.
@@ -72552,6 +73055,7 @@ noun(steppe,R) => R = steppe.
 noun(stepper,R) => R = stepper.
 noun(steppers,R) => R = stepper.
 noun(steppes,R) => R = steppe.
+noun(stepping,R) => R = stepping.
 noun(steprelationship,R) => R = steprelationship.
 noun(steps,R) => R = step.
 noun(stepsister,R) => R = stepsister.
@@ -72642,6 +73146,7 @@ noun(stickball,R) => R = stickball.
 noun(sticker,R) => R = sticker.
 noun(stickers,R) => R = sticker.
 noun(stickiness,R) => R = stickiness.
+noun(sticking,R) => R = sticking.
 noun(stickleback,R) => R = stickleback.
 noun(stickler,R) => R = stickler.
 noun(sticklers,R) => R = stickler.
@@ -72718,6 +73223,7 @@ noun(stinkbird,R) => R = stinkbird.
 noun(stinker,R) => R = stinker.
 noun(stinkers,R) => R = stinker.
 noun(stinkhorn,R) => R = stinkhorn.
+noun(stinking,R) => R = stinking.
 noun(stinkpot,R) => R = stinkpot.
 noun(stinkpots,R) => R = stinkpot.
 noun(stinks,R) => R = stink.
@@ -73031,6 +73537,7 @@ noun(strappado,R) => R = strappado.
 noun(strappadoes,R) => R = strappado.
 noun(strapper,R) => R = strapper.
 noun(strappers,R) => R = strapper.
+noun(strapping,R) => R = strapping.
 noun(straps,R) => R = strap.
 noun(strasberg,R) => R = strasberg.
 noun(strasbourg,R) => R = strasbourg.
@@ -73157,6 +73664,7 @@ noun(stridency,R) => R = stridency.
 noun(strider,R) => R = strider.
 noun(striders,R) => R = strider.
 noun(strides,R) => R = stride.
+noun(striding,R) => R = striding.
 noun(stridor,R) => R = stridor.
 noun(stridors,R) => R = stridor.
 noun(stridulating,R) => R = stridulating.
@@ -73182,6 +73690,7 @@ noun(stringencies,R) => R = stringency.
 noun(stringency,R) => R = stringency.
 noun(stringer,R) => R = stringer.
 noun(stringers,R) => R = stringer.
+noun(stringing,R) => R = stringing.
 noun(strings,R) => R = string.
 noun(stringybark,R) => R = stringybark.
 noun(strip,R) => R = strip.
@@ -73247,6 +73756,7 @@ noun(strophanthus,R) => R = strophanthus.
 noun(stropharia,R) => R = stropharia.
 noun(strophe,R) => R = strophe.
 noun(strophes,R) => R = strophe.
+noun(stropping,R) => R = stropping.
 noun(strops,R) => R = strop.
 noun(structuralism,R) => R = structuralism.
 noun(structure,R) => R = structure.
@@ -73943,6 +74453,7 @@ noun(sunblind,R) => R = sunblind.
 noun(sunbonnet,R) => R = sunbonnet.
 noun(sunbonnets,R) => R = sunbonnet.
 noun(sunburn,R) => R = sunburn.
+noun(sunburning,R) => R = sunburning.
 noun(sunburns,R) => R = sunburn.
 noun(sunburst,R) => R = sunburst.
 noun(sunbursts,R) => R = sunburst.
@@ -74421,6 +74932,7 @@ noun(swans,R) => R = swan.
 noun(swansea,R) => R = swansea.
 noun(swanson,R) => R = swanson.
 noun(swap,R) => R = swap.
+noun(swapping,R) => R = swapping.
 noun(swaps,R) => R = swap.
 noun(sward,R) => R = sward.
 noun(swards,R) => R = sward.
@@ -74600,6 +75112,7 @@ noun(swoosh,R) => R = swoosh.
 noun(swooshes,R) => R = swoosh.
 noun(swooshing,R) => R = swooshing.
 noun(swop,R) => R = swop.
+noun(swopping,R) => R = swopping.
 noun(swops,R) => R = swop.
 noun(sword,R) => R = sword.
 noun(swordfish,R) => R = swordfish.
@@ -75071,6 +75584,7 @@ noun('take-up',R) => R = 'take-up'.
 noun(takeaway,R) => R = takeaway.
 noun(takedown,R) => R = takedown.
 noun(takedowns,R) => R = takedown.
+noun(takeing,R) => R = takeing.
 noun(takelma,R) => R = takelma.
 noun(takeoff,R) => R = takeoff.
 noun(takeoffs,R) => R = takeoff.
@@ -75403,6 +75917,7 @@ noun(tarradiddle,R) => R = tarradiddle.
 noun(tarragon,R) => R = tarragon.
 noun(tarragons,R) => R = tarragon.
 noun(tarriance,R) => R = tarriance.
+noun(tarring,R) => R = tarring.
 noun(tarrying,R) => R = tarrying.
 noun(tars,R) => R = tar.
 noun(tarsal,R) => R = tarsal.
@@ -75693,6 +76208,7 @@ noun(tedium,R) => R = tedium.
 noun(tediums,R) => R = tedium.
 noun(teds,R) => R = ted.
 noun(tee,R) => R = tee.
+noun(teeing,R) => R = teeing.
 noun(teeming,R) => R = teeming.
 noun(teemingness,R) => R = teemingness.
 noun(teen,R) => R = teen.
@@ -76719,6 +77235,7 @@ noun(thrip,R) => R = thrip.
 noun(thripid,R) => R = thripid.
 noun(thripidae,R) => R = thripidae.
 noun(thrips,R) => R = thrips.
+noun(thriving,R) => R = thriving.
 noun(throat,R) => R = throat.
 noun(throats,R) => R = throat.
 noun(throatwort,R) => R = throatwort.
@@ -76772,6 +77289,7 @@ noun(throwback,R) => R = throwback.
 noun(throwbacks,R) => R = throwback.
 noun(thrower,R) => R = thrower.
 noun(throwers,R) => R = thrower.
+noun(throwing,R) => R = throwing.
 noun(throws,R) => R = throw.
 noun(throwster,R) => R = throwster.
 noun(thrum,R) => R = thrum.
@@ -77193,6 +77711,7 @@ noun(tipper,R) => R = tipper.
 noun(tippers,R) => R = tipper.
 noun(tippet,R) => R = tippet.
 noun(tippets,R) => R = tippet.
+noun(tipping,R) => R = tipping.
 noun(tipple,R) => R = tipple.
 noun(tippler,R) => R = tippler.
 noun(tipplers,R) => R = tippler.
@@ -77294,6 +77813,7 @@ noun('tittle-tattle',R) => R = 'tittle-tattle'.
 noun('tittle-tattling',R) => R = 'tittle-tattling'.
 noun(tittles,R) => R = tittle.
 noun(tittuping,R) => R = tittuping.
+noun(tittupping,R) => R = tittupping.
 noun(titty,R) => R = titty.
 noun(titus,R) => R = titus.
 noun(tiu,R) => R = tiu.
@@ -77873,6 +78393,7 @@ noun(towhead,R) => R = towhead.
 noun(towheads,R) => R = towhead.
 noun(towhee,R) => R = towhee.
 noun(towhees,R) => R = towhee.
+noun(towing,R) => R = towing.
 noun(towline,R) => R = towline.
 noun(towlines,R) => R = towline.
 noun(town,R) => R = town.
@@ -78146,6 +78667,7 @@ noun(transferral,R) => R = transferral.
 noun(transferrals,R) => R = transferral.
 noun(transferrer,R) => R = transferrer.
 noun(transferrers,R) => R = transferrer.
+noun(transferring,R) => R = transferring.
 noun(transfers,R) => R = transfer.
 noun(transfiguration,R) => R = transfiguration.
 noun(transfigurations,R) => R = transfiguration.
@@ -78252,6 +78774,7 @@ noun(transsexuals,R) => R = transsexual.
 noun(transshiping,R) => R = transshiping.
 noun(transshipment,R) => R = transshipment.
 noun(transshipments,R) => R = transshipment.
+noun(transshipping,R) => R = transshipping.
 noun(transubstantiating,R) => R = transubstantiating.
 noun(transubstantiation,R) => R = transubstantiation.
 noun(transudate,R) => R = transudate.
@@ -78335,6 +78858,7 @@ noun(treacles,R) => R = treacle.
 noun(tread,R) => R = tread.
 noun('tread-softly',R) => R = 'tread-softly'.
 noun('tread-wheel',R) => R = 'tread-wheel'.
+noun(treading,R) => R = treading.
 noun(treadle,R) => R = treadle.
 noun(treadles,R) => R = treadle.
 noun(treadling,R) => R = treadling.
@@ -78699,6 +79223,7 @@ noun(tripos,R) => R = tripos.
 noun(triposes,R) => R = tripos.
 noun(tripper,R) => R = tripper.
 noun(trippers,R) => R = tripper.
+noun(tripping,R) => R = tripping.
 noun(trips,R) => R = trip.
 noun(triptych,R) => R = triptych.
 noun(triptychs,R) => R = triptych.
@@ -79477,6 +80002,7 @@ noun('two-dimensionality',R) => R = 'two-dimensionality'.
 noun('two-piece',R) => R = 'two-piece'.
 noun('two-seater',R) => R = 'two-seater'.
 noun('two-step',R) => R = 'two-step'.
+noun('two-stepping',R) => R = 'two-stepping'.
 noun('two-thirds',R) => R = 'two-thirds'.
 noun('two-timer',R) => R = 'two-timer'.
 noun('two-timing',R) => R = 'two-timing'.
@@ -79511,6 +80037,7 @@ noun(tyndall,R) => R = tyndall.
 noun(tyne,R) => R = tyne.
 noun(tynes,R) => R = tyne.
 noun(type,R) => R = type.
+noun(typecasting,R) => R = typecasting.
 noun(typeface,R) => R = typeface.
 noun(typefaces,R) => R = typeface.
 noun(types,R) => R = type.
@@ -79755,12 +80282,15 @@ noun(unavoidability,R) => R = unavoidability.
 noun(unawareness,R) => R = unawareness.
 noun(unbalance,R) => R = unbalance.
 noun(unbalancing,R) => R = unbalancing.
+noun(unbarring,R) => R = unbarring.
 noun(unbecomingness,R) => R = unbecomingness.
 noun(unbelief,R) => R = unbelief.
 noun(unbeliefs,R) => R = unbelief.
 noun(unbeliever,R) => R = unbeliever.
 noun(unbelievers,R) => R = unbeliever.
 noun(unbelting,R) => R = unbelting.
+noun(unbending,R) => R = unbending.
+noun(unbinding,R) => R = unbinding.
 noun(unblocking,R) => R = unblocking.
 noun(unbolting,R) => R = unbolting.
 noun(unbosoming,R) => R = unbosoming.
@@ -79794,7 +80324,9 @@ noun(uncleanness,R) => R = uncleanness.
 noun(uncleannesses,R) => R = uncleanness.
 noun(unclearness,R) => R = unclearness.
 noun(uncles,R) => R = uncle.
+noun(unclipping,R) => R = unclipping.
 noun(uncloaking,R) => R = uncloaking.
+noun(unclothing,R) => R = unclothing.
 noun(uncloudedness,R) => R = uncloudedness.
 noun(uncluttering,R) => R = uncluttering.
 noun(uncoiling,R) => R = uncoiling.
@@ -79878,6 +80410,7 @@ noun(underfurs,R) => R = underfur.
 noun(undergarment,R) => R = undergarment.
 noun(undergarments,R) => R = undergarment.
 noun(undergirding,R) => R = undergirding.
+noun(undergoing,R) => R = undergoing.
 noun(undergrad,R) => R = undergrad.
 noun(undergrads,R) => R = undergrad.
 noun(undergraduate,R) => R = undergraduate.
@@ -79887,6 +80420,7 @@ noun(undergrounds,R) => R = underground.
 noun(undergrowth,R) => R = undergrowth.
 noun(undergrowths,R) => R = undergrowth.
 noun(underlay,R) => R = underlay.
+noun(underlaying,R) => R = underlaying.
 noun(underlayment,R) => R = underlayment.
 noun(underlays,R) => R = underlay.
 noun(underline,R) => R = underline.
@@ -79904,6 +80438,7 @@ noun(underpart,R) => R = underpart.
 noun(underparts,R) => R = underpart.
 noun(underpass,R) => R = underpass.
 noun(underpasses,R) => R = underpass.
+noun(underpaying,R) => R = underpaying.
 noun(underpayment,R) => R = underpayment.
 noun(underplaying,R) => R = underplaying.
 noun(underpricing,R) => R = underpricing.
@@ -79919,8 +80454,10 @@ noun(underseal,R) => R = underseal.
 noun(undersecretaries,R) => R = undersecretary.
 noun(undersecretary,R) => R = undersecretary.
 noun(underseller,R) => R = underseller.
+noun(underselling,R) => R = underselling.
 noun(undershirt,R) => R = undershirt.
 noun(undershirts,R) => R = undershirt.
+noun(undershooting,R) => R = undershooting.
 noun(undershrub,R) => R = undershrub.
 noun(undershrubs,R) => R = undershrub.
 noun(underside,R) => R = underside.
@@ -79960,6 +80497,7 @@ noun(underworld,R) => R = underworld.
 noun(underworlds,R) => R = underworld.
 noun(underwriter,R) => R = underwriter.
 noun(underwriters,R) => R = underwriter.
+noun(underwriting,R) => R = underwriting.
 noun(undesirability,R) => R = undesirability.
 noun(undesirable,R) => R = undesirable.
 noun(undies,R) => R = undies.
@@ -80011,6 +80549,7 @@ noun(unfitnesses,R) => R = unfitness.
 noun(unfolding,R) => R = unfolding.
 noun(unfortunate,R) => R = unfortunate.
 noun(unfortunates,R) => R = unfortunate.
+noun(unfreezing,R) => R = unfreezing.
 noun(unfriendliness,R) => R = unfriendliness.
 noun(unfrocking,R) => R = unfrocking.
 noun(unfurling,R) => R = unfurling.
@@ -80125,6 +80664,7 @@ noun(unlacing,R) => R = unlacing.
 noun(unlading,R) => R = unlading.
 noun(unlashing,R) => R = unlashing.
 noun(unlawfulness,R) => R = unlawfulness.
+noun(unlearning,R) => R = unlearning.
 noun(unleashing,R) => R = unleashing.
 noun(unlikelihood,R) => R = unlikelihood.
 noun(unlikeliness,R) => R = unlikeliness.
@@ -80135,6 +80675,7 @@ noun(unloading,R) => R = unloading.
 noun(unlocking,R) => R = unlocking.
 noun(unloosening,R) => R = unloosening.
 noun(unloosing,R) => R = unloosing.
+noun(unmaking,R) => R = unmaking.
 noun(unmalleability,R) => R = unmalleability.
 noun(unmanageableness,R) => R = unmanageableness.
 noun(unmanliness,R) => R = unmanliness.
@@ -80231,6 +80772,7 @@ noun(unspelling,R) => R = unspelling.
 noun(unstableness,R) => R = unstableness.
 noun(unsteadiness,R) => R = unsteadiness.
 noun(unsteadinesses,R) => R = unsteadiness.
+noun(unstrapping,R) => R = unstrapping.
 noun(unstring,R) => R = unstring.
 noun(unstringing,R) => R = unstringing.
 noun(unstuffing,R) => R = unstuffing.
@@ -80266,11 +80808,14 @@ noun(unwholesomeness,R) => R = unwholesomeness.
 noun(unwieldiness,R) => R = unwieldiness.
 noun(unwillingness,R) => R = unwillingness.
 noun(unwillingnesses,R) => R = unwillingness.
+noun(unwinding,R) => R = unwinding.
 noun(unwiseness,R) => R = unwiseness.
 noun(unworthiness,R) => R = unworthiness.
 noun(unworthinesses,R) => R = unworthiness.
+noun(unwrapping,R) => R = unwrapping.
 noun(unyieldingness,R) => R = unyieldingness.
 noun(unyoking,R) => R = unyoking.
+noun(unzipping,R) => R = unzipping.
 noun('up-bow',R) => R = 'up-bow'.
 noun('up-to-dateness',R) => R = 'up-to-dateness'.
 noun(upanishad,R) => R = upanishad.
@@ -80301,6 +80846,7 @@ noun(uphill,R) => R = uphill.
 noun(uphills,R) => R = uphill.
 noun(upholder,R) => R = upholder.
 noun(upholders,R) => R = upholder.
+noun(upholding,R) => R = upholding.
 noun(upholsterer,R) => R = upholsterer.
 noun(upholsterers,R) => R = upholsterer.
 noun(upholsteries,R) => R = upholstery.
@@ -80321,6 +80867,7 @@ noun(uppercase,R) => R = uppercase.
 noun(uppercut,R) => R = uppercut.
 noun(uppercuts,R) => R = uppercut.
 noun(uppers,R) => R = upper.
+noun(upping,R) => R = upping.
 noun(uppishness,R) => R = uppishness.
 noun(uppityness,R) => R = uppityness.
 noun(uppsala,R) => R = uppsala.
@@ -81367,6 +81914,7 @@ noun(vexation,R) => R = vexation.
 noun(vexations,R) => R = vexation.
 noun(vexer,R) => R = vexer.
 noun(vexers,R) => R = vexer.
+noun(vexing,R) => R = vexing.
 noun(vfw,R) => R = vfw.
 noun(vhf,R) => R = vhf.
 noun(vi,R) => R = vi.
@@ -82386,6 +82934,7 @@ noun(warreners,R) => R = warrener.
 noun(warrens,R) => R = warren.
 noun(warrigal,R) => R = warrigal.
 noun(warrigals,R) => R = warrigal.
+noun(warring,R) => R = warring.
 noun(warrior,R) => R = warrior.
 noun(warriors,R) => R = warrior.
 noun(wars,R) => R = war.
@@ -82618,6 +83167,7 @@ noun(wayfarers,R) => R = wayfarer.
 noun(wayfaring,R) => R = wayfaring.
 noun(wayfarings,R) => R = wayfaring.
 noun(wayland,R) => R = wayland.
+noun(waylaying,R) => R = waylaying.
 noun(wayne,R) => R = wayne.
 noun(ways,R) => R = way.
 noun(wayside,R) => R = wayside.
@@ -82842,6 +83392,7 @@ noun(wencher,R) => R = wencher.
 noun(wenchers,R) => R = wencher.
 noun(wenches,R) => R = wench.
 noun(wenching,R) => R = wenching.
+noun(wending,R) => R = wending.
 noun(wens,R) => R = wen.
 noun(werewolf,R) => R = werewolf.
 noun(werewolves,R) => R = werewolf.
@@ -82910,6 +83461,7 @@ noun(whammy,R) => R = whammy.
 noun(whang,R) => R = whang.
 noun(whanging,R) => R = whanging.
 noun(whangs,R) => R = whang.
+noun(whapping,R) => R = whapping.
 noun(wharf,R) => R = wharf.
 noun(wharfage,R) => R = wharfage.
 noun(wharfages,R) => R = wharfage.
@@ -83169,6 +83721,7 @@ noun(whooshes,R) => R = whoosh.
 noun(whooshing,R) => R = whooshing.
 noun(whopper,R) => R = whopper.
 noun(whoppers,R) => R = whopper.
+noun(whopping,R) => R = whopping.
 noun(whore,R) => R = whore.
 noun(whoredom,R) => R = whoredom.
 noun(whoredoms,R) => R = whoredom.
@@ -83366,6 +83919,7 @@ noun(windmill,R) => R = windmill.
 noun(windmills,R) => R = windmill.
 noun(window,R) => R = window.
 noun('window-dressing',R) => R = 'window-dressing'.
+noun('window-shopping',R) => R = 'window-shopping'.
 noun(windowpane,R) => R = windowpane.
 noun(windowpanes,R) => R = windowpane.
 noun(windows,R) => R = window.
@@ -83472,6 +84026,7 @@ noun(wires,R) => R = wire.
 noun(wiretap,R) => R = wiretap.
 noun(wiretapper,R) => R = wiretapper.
 noun(wiretappers,R) => R = wiretapper.
+noun(wiretapping,R) => R = wiretapping.
 noun(wiretaps,R) => R = wiretap.
 noun(wirework,R) => R = wirework.
 noun(wireworks,R) => R = wirework.
@@ -83530,6 +84085,7 @@ noun(witchings,R) => R = witching.
 noun(withdrawal,R) => R = withdrawal.
 noun(withdrawals,R) => R = withdrawal.
 noun(withdrawer,R) => R = withdrawer.
+noun(withdrawing,R) => R = withdrawing.
 noun(withdrawnness,R) => R = withdrawnness.
 noun(withe,R) => R = withe.
 noun(withering,R) => R = withering.
@@ -83541,6 +84097,7 @@ noun(withholding,R) => R = withholding.
 noun(withholdings,R) => R = withholding.
 noun(withies,R) => R = withy.
 noun(withstander,R) => R = withstander.
+noun(withstanding,R) => R = withstanding.
 noun(withy,R) => R = withy.
 noun(witloof,R) => R = witloof.
 noun(witloofs,R) => R = witloof.
@@ -83839,6 +84396,7 @@ noun(worshipers,R) => R = worshiper.
 noun(worshiping,R) => R = worshiping.
 noun(worshipper,R) => R = worshipper.
 noun(worshippers,R) => R = worshipper.
+noun(worshipping,R) => R = worshipping.
 noun(worships,R) => R = worship.
 noun(worst,R) => R = worst.
 noun(worsted,R) => R = worsted.
@@ -83888,6 +84446,7 @@ noun(wrasse,R) => R = wrasse.
 noun(wrasses,R) => R = wrasse.
 noun(wrath,R) => R = wrath.
 noun(wraths,R) => R = wrath.
+noun(wreaking,R) => R = wreaking.
 noun(wreath,R) => R = wreath.
 noun(wreathing,R) => R = wreathing.
 noun(wreaths,R) => R = wreath.
@@ -83933,6 +84492,7 @@ noun(wrights,R) => R = wright.
 noun(wring,R) => R = wring.
 noun(wringer,R) => R = wringer.
 noun(wringers,R) => R = wringer.
+noun(wringing,R) => R = wringing.
 noun(wrings,R) => R = wring.
 noun(wrinkle,R) => R = wrinkle.
 noun(wrinkles,R) => R = wrinkle.
@@ -83951,6 +84511,7 @@ noun('write-in',R) => R = 'write-in'.
 noun('write-off',R) => R = 'write-off'.
 noun(writer,R) => R = writer.
 noun(writers,R) => R = writer.
+noun(writhing,R) => R = writhing.
 noun(writing,R) => R = writing.
 noun(writings,R) => R = writing.
 noun(writs,R) => R = writ.
@@ -84149,6 +84710,7 @@ noun(yanking,R) => R = yanking.
 noun(yanks,R) => R = yank.
 noun(yaounde,R) => R = yaounde.
 noun(yap,R) => R = yap.
+noun(yapping,R) => R = yapping.
 noun(yaps,R) => R = yap.
 noun(yard,R) => R = yard.
 noun(yardage,R) => R = yardage.
@@ -84287,6 +84849,7 @@ noun(yields,R) => R = yield.
 noun(yin,R) => R = yin.
 noun(yins,R) => R = yin.
 noun(yip,R) => R = yip.
+noun(yipping,R) => R = yipping.
 noun(yips,R) => R = yip.
 noun(yis,R) => R = yi.
 noun('ylang-ylang',R) => R = 'ylang-ylang'.
@@ -84425,6 +84988,7 @@ noun(zapotec,R) => R = zapotec.
 noun(zapotecan,R) => R = zapotecan.
 noun(zapper,R) => R = zapper.
 noun(zappers,R) => R = zapper.
+noun(zapping,R) => R = zapping.
 noun(zaps,R) => R = zap.
 noun(zapus,R) => R = zapus.
 noun(zaragoza,R) => R = zaragoza.
@@ -84515,6 +85079,7 @@ noun(zimbabwe,R) => R = zimbabwe.
 noun(zimbalist,R) => R = zimbalist.
 noun(zimmer,R) => R = zimmer.
 noun(zinc,R) => R = zinc.
+noun(zincing,R) => R = zincing.
 noun(zincs,R) => R = zinc.
 noun(zinfandel,R) => R = zinfandel.
 noun(zing,R) => R = zing.
@@ -84540,6 +85105,7 @@ noun(ziphiidae,R) => R = ziphiidae.
 noun(zipper,R) => R = zipper.
 noun(zippering,R) => R = zippering.
 noun(zippers,R) => R = zipper.
+noun(zipping,R) => R = zipping.
 noun(zips,R) => R = zip.
 noun(zirbanit,R) => R = zirbanit.
 noun(zircon,R) => R = zircon.
