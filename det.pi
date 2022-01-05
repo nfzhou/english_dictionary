@@ -1,5 +1,6 @@
 det(a) => true.
 det(an) => true.
+det(the) => true.
 det(all) => true.
 det(alls) => true.
 det(alotta) => true.
