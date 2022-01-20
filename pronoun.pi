@@ -1,3 +1,4 @@
+pronoun(that) => true.
 pronoun('one\'s') => true.
 pronoun(he) => true.
 pronoun(her) => true.

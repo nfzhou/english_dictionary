@@ -349,6 +349,7 @@ adv(anyhow) => true.
 adv(anymore) => true.
 adv(anyplace) => true.
 adv(anything) => true.
+adv(anytime) => true.
 adv(anyway) => true.
 adv(anyways) => true.
 adv(anywhere) => true.
