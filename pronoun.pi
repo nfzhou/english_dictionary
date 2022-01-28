@@ -1,3 +1,5 @@
+pronoun(everyone) => true.
+pronoun(anything) => true.
 pronoun(that) => true.
 pronoun('one\'s') => true.
 pronoun(he) => true.
