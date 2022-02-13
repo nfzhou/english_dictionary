@@ -1,4 +1,23 @@
 det(a) => true.
+det(all) => true.
+det(an) => true.
+det(another) => true.
+det(any) => true.
+det(both) => true.
+det(each) => true.
+det(either) => true.
+det(every) => true.
+det(half) => true.
+det(neither) => true.
+det(no) => true.
+det(some) => true.
+det(that) => true.
+det(the) => true.
+det(these) => true.
+det(this) => true.
+det(those) => true.
+/*
+det(a) => true.
 det(an) => true.
 det(the) => true.
 det(all) => true.
@@ -191,3 +210,4 @@ det(yr) => true.
 det(yure) => true.
 det(zir) => true.
 det(zis) => true.
+*/

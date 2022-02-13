@@ -2514,7 +2514,6 @@ verb(berth,R) => R = berth.
 verb(berthed,R) => R = berth.
 verb(berthing,R) => R = berth.
 verb(berths,R) => R = berth.
-verb(bes,R) => R = be.
 verb(beseech,R) => R = beseech.
 verb(beseeched,R) => R = beseech.
 verb(beseeches,R) => R = beseech.
@@ -2721,7 +2720,6 @@ verb(bind,R) => R = bind.
 verb(binded,R) => R = bind.
 verb(binding,R) => R = bind.
 verb(binds,R) => R = bind.
-verb(bing,R) => R = be.
 verb(binge,R) => R = binge.
 verb(binged,R) => R = binge.
 verb(bingeing,R) => R = binge.
@@ -7387,7 +7385,6 @@ verb(dawn,R) => R = dawn.
 verb(dawned,R) => R = dawn.
 verb(dawning,R) => R = dawn.
 verb(dawns,R) => R = dawn.
-verb(day,R) => R = die.
 verb(daydream,R) => R = daydream.
 verb(daydreamed,R) => R = daydream.
 verb(daydreaming,R) => R = daydream.
@@ -8766,7 +8763,6 @@ verb(din,R) => R = din.
 verb(dine,R) => R = dine.
 verb(dined,R) => R = dine.
 verb(dines,R) => R = dine.
-verb(ding,R) => R = do.
 verb(dingdong,R) => R = dingdong.
 verb(dingdonged,R) => R = dingdong.
 verb(dingdonging,R) => R = dingdong.
@@ -9575,7 +9571,6 @@ verb(dope,R) => R = dope.
 verb(doped,R) => R = dope.
 verb(dopes,R) => R = dope.
 verb(doping,R) => R = dope.
-verb(dos,R) => R = do.
 verb(dose,R) => R = dose.
 verb(dosed,R) => R = dose.
 verb(doses,R) => R = dose.
@@ -13954,7 +13949,6 @@ verb(haunted,R) => R = haunt.
 verb(haunting,R) => R = haunt.
 verb(haunts,R) => R = haunt.
 verb(have,R) => R = have.
-verb(haves,R) => R = have.
 verb(having,R) => R = have.
 verb(haw,R) => R = haw.
 verb(hawed,R) => R = haw.
@@ -31176,7 +31170,6 @@ verb(warred,R) => R = war.
 verb(warring,R) => R = war.
 verb(wars,R) => R = war.
 verb(was,R) => R = be.
-verb('was, were',R) => R = be.
 verb(wash,R) => R = wash.
 verb(washed,R) => R = wash.
 verb(washes,R) => R = wash.
