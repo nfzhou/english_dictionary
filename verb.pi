@@ -3944,7 +3944,6 @@ verb(buttressed,R) => R = buttress.
 verb(buttresses,R) => R = buttress.
 verb(buttressing,R) => R = buttress.
 verb(butts,R) => R = butt.
-verb(buttweld,R) => R = buttweld.
 verb(butylate,R) => R = butylate.
 verb(butylated,R) => R = butylate.
 verb(butylates,R) => R = butylate.
@@ -7291,7 +7290,6 @@ verb(dado,R) => R = dado.
 verb(dadoed,R) => R = dado.
 verb(dadoing,R) => R = dado.
 verb(dados,R) => R = dado.
-verb(dain,R) => R = die.
 verb(dallied,R) => R = dally.
 verb(dallies,R) => R = dally.
 verb(dally,R) => R = dally.
@@ -8673,8 +8671,6 @@ verb(diddles,R) => R = diddle.
 verb(diddling,R) => R = diddle.
 verb(die,R) => R = die.
 verb(died,R) => R = die.
-verb(dieing,R) => R = die.
-verb(dies,R) => R = die.
 verb(diet,R) => R = diet.
 verb(dieted,R) => R = diet.
 verb(dieting,R) => R = diet.
@@ -9896,8 +9892,7 @@ verb(dwindling,R) => R = dwindle.
 verb(dye,R) => R = dye.
 verb(dyed,R) => R = dye.
 verb(dyeing,R) => R = dye.
-verb(dyes,R) => R = dye.
-verb(dying,R) => R = dye.
+verb(dying,R) => R = die.
 verb(dyke,R) => R = dyke.
 verb(dyked,R) => R = dyke.
 verb(dykes,R) => R = dyke.
@@ -11637,7 +11632,7 @@ verb(felicitate,R) => R = felicitate.
 verb(felicitated,R) => R = felicitate.
 verb(felicitates,R) => R = felicitate.
 verb(felicitating,R) => R = felicitate.
-verb(fell,R) => R = fell.
+verb(fell,R) => R = fall.
 verb(fellate,R) => R = fellate.
 verb(fellated,R) => R = fellate.
 verb(fellates,R) => R = fellate.
@@ -23547,7 +23542,6 @@ verb(reprise,R) => R = reprise.
 verb(reprised,R) => R = reprise.
 verb(reprises,R) => R = reprise.
 verb(reprising,R) => R = reprise.
-verb(reprize,R) => R = reprize.
 verb(reproach,R) => R = reproach.
 verb(reproached,R) => R = reproach.
 verb(reproaches,R) => R = reproach.
