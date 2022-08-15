@@ -1,0 +1,9 @@
+% as in "according to NY times", the word following "to" is not a verb
+v_to_nv(accede) => true.
+v_to_nv(accord) => true.
+v_to_nv(respond) => true.
+v_to_nv(belong) => true.
+v_to_nv(consent) => true.
+v_to_nv(expose) => true.
+
+

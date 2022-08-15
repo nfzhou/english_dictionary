@@ -12,7 +12,6 @@ pronoun(himself) => true.
 pronoun(his) => true.
 pronoun(i) => true.
 pronoun(it) => true.
-pronoun(it) => true.
 pronoun(its) => true.
 pronoun(itself) => true.
 pronoun(me) => true.
